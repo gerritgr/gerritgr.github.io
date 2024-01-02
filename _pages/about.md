@@ -83,16 +83,16 @@ I work at the research department on [Neuro-mechanistic Modeling](https://www.
 <br>
 # <i class="fa-solid fa-school"></i> Teaching 
 
-* [Advanced Topics in Diffusion Modeling: From Theory to Implementation](23_2_deep_diffusion.md) 
-* [AI for the Social Good (SoSe 23)](https://mosi.uni-saarland.de/lectures/23_1_ai_for_the_social_good.md) 
-* [Deep Generative Diffusion Models (WS 22/23)](https://mosi.uni-saarland.de/lectures/22_2_deep_diffusion.md) 
-* [Deep Learning for Drug Discovery (SoSe 22)](https://mosi.uni-saarland.de/lectures/22_1_deep_learning_for_drug_discovery.md) 
+* [Advanced Topics in Diffusion Modeling: From Theory to Implementation](https://mosi.uni-saarland.de/lectures/23_2_deep_diffusion/) 
+* [AI for the Social Good (SoSe 23)](https://mosi.uni-saarland.de/lectures/23_1_ai_for_the_social_good) 
+* [Deep Generative Diffusion Models (WS 22/23)](https://mosi.uni-saarland.de/lectures/22_2_deep_diffusion) 
+* [Deep Learning for Drug Discovery (SoSe 22)](https://mosi.uni-saarland.de/lectures/22_1_deep_learning_for_drug_discovery) 
 * [Concurrent Programming (SoSe 21)](https://mcms.cs.uni-saarland.de/np21/) 
-* [Exploring Graph Neural Networks (SoSe 21)](https://mosi.uni-saarland.de/lectures/21_1_exploring_graphneuralnetworks.md) 
-* [Statistics Lab (SoSe 20)](https://mosi.uni-saarland.de/lectures/20_1_statlab.md)
-* [Exploring Complex Network Dynamics (WS 19/20)](https://mosi.uni-saarland.de/lectures/19_2_complex_networks.md)
-* [Probabilistic Models and Data Analysis (SoSe 19)](https://mosi.uni-saarland.de/lectures/19_1_prob_mod.md)
-* [Ringvorlesung: Perspektiven der Informatik (WS 18/19)](https://mosi.uni-saarland.de/lectures/18_2_perspektiven.md)
+* [Exploring Graph Neural Networks (SoSe 21)](https://mosi.uni-saarland.de/lectures/21_1_exploring_graphneuralnetworks) 
+* [Statistics Lab (SoSe 20)](https://mosi.uni-saarland.de/lectures/20_1_statlab)
+* [Exploring Complex Network Dynamics (WS 19/20)](https://mosi.uni-saarland.de/lectures/19_2_complex_networks)
+* [Probabilistic Models and Data Analysis (SoSe 19)](https://mosi.uni-saarland.de/lectures/19_1_prob_mod)
+* [Ringvorlesung: Perspektiven der Informatik (WS 18/19)](https://mosi.uni-saarland.de/lectures/18_2_perspektiven)
 * [Probabilistic Models of Concurrency (WS 18/19)](https://dcms.cs.uni-saarland.de/conca_1819/)
 * Pattern and Speech Recognition
 
@@ -110,6 +110,14 @@ I work at the research department on [Neuro-mechanistic Modeling](https://www.
 # <i class="fa-solid fa-building-columns"></i> Co-Supervised Students
 
 <div>
+    <div style="display: flex; margin-bottom: 10px;">
+        <div style="min-width: 120px; font-weight: bold; align-items: center;"><br>2023</div>
+        <div><em>Computer-Aided Molecule Generation Using Optimal Transport and Variational Autoencoders</em><br>Magnus Cunow<br>Bachelor's thesis</div>
+    </div>
+    <div style="display: flex; margin-bottom: 10px;">
+        <div style="min-width: 120px; font-weight: bold; align-items: center;"><br>2023</div>
+        <div><em>Small Molecule Generation and Optimiyation: A GNN-VAE Appraoch</em><br>Nesara Belakere Lingarajaiah<br>Master's thesis</div>
+    </div>
     <div style="display: flex; margin-bottom: 10px;">
         <div style="min-width: 120px; font-weight: bold; align-items: center;"><br>2023</div>
         <div><em>Learning the Function of Neural Networks in Deep Weight Spaces</em><br>Janine Lohse<br>Research Immersion Lab </div>
