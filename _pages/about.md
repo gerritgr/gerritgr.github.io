@@ -116,7 +116,7 @@ I work at the research department on [Neuro-mechanistic Modeling](https://www.
     </div>
     <div style="display: flex; margin-bottom: 10px;">
         <div style="min-width: 120px; font-weight: bold; align-items: center;"><br>2024</div>
-        <div><em>Small Molecule Generation and Optimiyation: A GNN-VAE Appraoch</em><br>Nesara Belakere Lingarajaiah<br>Master's thesis</div>
+        <div><em>Small Molecule Generation and Optimization: A GNN-VAE Appraoch</em><br>Nesara Belakere Lingarajaiah<br>Master's thesis</div>
     </div>
     <div style="display: flex; margin-bottom: 10px;">
         <div style="min-width: 120px; font-weight: bold; align-items: center;"><br>2023</div>
