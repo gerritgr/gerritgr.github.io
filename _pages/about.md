@@ -83,7 +83,7 @@ I work at the research department on [Neuro-mechanistic Modeling](https://www.
 <br>
 # <i class="fa-solid fa-school"></i> Teaching 
 
-* [Advanced Topics in Diffusion Modeling: From Theory to Implementation](https://mosi.uni-saarland.de/lectures/23_2_deep_diffusion/) 
+* [Advanced Topics in Diffusion Modeling: From Theory to Implementation (WS 23/23)](https://mosi.uni-saarland.de/lectures/23_2_deep_diffusion/) 
 * [AI for the Social Good (SoSe 23)](https://mosi.uni-saarland.de/lectures/23_1_ai_for_the_social_good) 
 * [Deep Generative Diffusion Models (WS 22/23)](https://mosi.uni-saarland.de/lectures/22_2_deep_diffusion) 
 * [Deep Learning for Drug Discovery (SoSe 22)](https://mosi.uni-saarland.de/lectures/22_1_deep_learning_for_drug_discovery) 
@@ -111,11 +111,11 @@ I work at the research department on [Neuro-mechanistic Modeling](https://www.
 
 <div>
     <div style="display: flex; margin-bottom: 10px;">
-        <div style="min-width: 120px; font-weight: bold; align-items: center;"><br>2023</div>
+        <div style="min-width: 120px; font-weight: bold; align-items: center;"><br>2024</div>
         <div><em>Computer-Aided Molecule Generation Using Optimal Transport and Variational Autoencoders</em><br>Magnus Cunow<br>Bachelor's thesis</div>
     </div>
     <div style="display: flex; margin-bottom: 10px;">
-        <div style="min-width: 120px; font-weight: bold; align-items: center;"><br>2023</div>
+        <div style="min-width: 120px; font-weight: bold; align-items: center;"><br>2024</div>
         <div><em>Small Molecule Generation and Optimiyation: A GNN-VAE Appraoch</em><br>Nesara Belakere Lingarajaiah<br>Master's thesis</div>
     </div>
     <div style="display: flex; margin-bottom: 10px;">
