@@ -107,7 +107,7 @@ I work at the research department on [Neuro-mechanistic Modeling](https://www.
 
 <a id="students"></a>
 <br>
-# <i class="fa-solid fa-building-columns"></i> Co-Supervised Students
+# <i class="fa-solid fa-building-columns"></i> (Co-)Supervised Students
 
 <div>
     <div style="display: flex; margin-bottom: 10px;">
