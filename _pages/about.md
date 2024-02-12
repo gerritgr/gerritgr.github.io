@@ -26,7 +26,7 @@ social: false  # includes social icons at the bottom of the page
 
 
 Hello World! My name is Gerrit Großmann, welcome to my personal academic webpage!
-I work at the research department on [Neuro-mechanistic Modeling](https://www.dfki.de/nmm) at the  <a href='https://www.dfki.de/web'>German Research Center for Artifical Intelligenc (DFKI)</a>.
+I work at the research department on [Neuro-mechanistic Modeling](https://www.dfki.de/nmm) at the  <a href='https://www.dfki.de/web'>German Research Center for Artifical Intelligence (DFKI)</a>.
 
 **Research Interests:** <br>
 🤖💡 My research revolves around the question: How can we integrate the distinct realms of __discrete structures__ such as graphs and networks with the __continuous nature__ of dynamic evolution, diffusion, and learning?
