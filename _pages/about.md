@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Dr. rer. nat., M. Sc., Postdoc at <a href='https://www.dfki.de/web'>DFKI</a>. Saarbrücken. Germany. 
+subtitle: Dr. rer. nat., M. Sc., Postdoc at <a href='https://www.dfki.de/web'>DFKI</a>. Saarbrücken and Kaiserslautern. Germany. 
 
 profile:
   align: right
@@ -26,7 +26,7 @@ social: false  # includes social icons at the bottom of the page
 
 
 Hello World! My name is Gerrit Großmann, welcome to my personal academic webpage!
-I work at the research department on [Neuro-mechanistic Modeling](https://www.dfki.de/nmm) at the  <a href='https://www.dfki.de/web'>German Research Center for Artifical Intelligence (DFKI)</a>.
+I work at the research department on [Data Science and its Applications (DSA)]([https://www.dfki.de/nmm](https://sebastian.vollmer.ms/)) (formerly [Neuro-mechanistic Modeling](https://www.dfki.de/nmm)) at the  <a href='https://www.dfki.de/web'>German Research Center for Artifical Intelligence (DFKI)</a>.
 
 **Research Interests:** <br>
 🤖💡 My research revolves around the question: How can we integrate the distinct realms of __discrete structures__ such as graphs and networks with the __continuous nature__ of dynamic evolution, diffusion, and learning?
@@ -83,6 +83,7 @@ I work at the research department on [Neuro-mechanistic Modeling](https://www.
 <br>
 # <i class="fa-solid fa-school"></i> Teaching 
 
+* [Bridging the Gap - Language Models and Structured Knowledge in AI (SoSe 24)](https://mosi.uni-saarland.de/lectures/24_1_bridging_the_gap/) 
 * [Advanced Topics in Diffusion Modeling: From Theory to Implementation (WS 23/23)](https://mosi.uni-saarland.de/lectures/23_2_deep_diffusion/) 
 * [AI for the Social Good (SoSe 23)](https://mosi.uni-saarland.de/lectures/23_1_ai_for_the_social_good) 
 * [Deep Generative Diffusion Models (WS 22/23)](https://mosi.uni-saarland.de/lectures/22_2_deep_diffusion) 
