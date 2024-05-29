@@ -101,6 +101,7 @@ I work at the research department on [Data Science and its Applications (DSA)](
 <br>
 # <i class="fa-brands fa-medium"></i> Opinion Pieces and Tutorials
 
+* [LLM4Science: Current Trends and Future Prospects of a New Paradigm](https://medium.com/@gerritgr/llm4science-current-trends-and-future-prospects-of-a-new-paradigm-e6b53c61df74) 
 * I contributed to the [deep learning for computer-aided drug design tutorial](https://github.com/volkamerlab/teachopencadd/tree/master) (T033 - T038) series.
 * [7 Reasons Not to Use ODEs for Epidemic Modeling](https://gerritgr.medium.com/7-reasons-not-to-use-odes-for-epidemic-modeling-bf451037a97f) 
 * [Der Nutzen von Corona-Modellen bleibt ungeklärt (The usefulness of corona models remains uncertain)](https://www.pressreader.com/germany/saarbruecker-zeitung/20220204/281883006743772), Saarbrücker Zeitung; Feb., 4th, 2022
