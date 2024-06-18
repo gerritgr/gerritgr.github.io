@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Dr. rer. nat., M. Sc., Postdoc at <a href='https://www.dfki.de/web'>DFKI</a>. Saarbrücken and Kaiserslautern. Germany. 
+subtitle: Dr. rer. nat., M. Sc., Postdoc at <a href='https://www.dfki.de/web'>DFKI</a>. Saarbrücken and <a href='https://datasciapps.de/author/gerrit-gro%C3%9Fmann/'>Kaiserslautern</a>. Germany. 
 
 profile:
   align: right
@@ -99,8 +99,11 @@ I work at the research department on [Data Science and its Applications (DSA)](
 
 <a id="blog"></a>
 <br>
-# <i class="fa-brands fa-medium"></i> Opinion Pieces and Tutorials
+# <i class="fa-brands fa-medium"></i> Tutorials, Talks, and Opinion Pieces
 
+* Talk and tutorial on *Language Models and Structured Knowledge in AI* as part of the [Inria-DFKI European Summer School](https://idessai.eu/venue-2024/) 
+* Talk on [Molecule Generation with Graph Neural Networks and Probabilistic Diffusion](https://scads.ai/education/summer-schools/summer-school-2024/dr-gerrit-grossmann/) as part of the [ScaDS.AI Summer School](https://scads.ai/education/summer-schools/summer-school-2024/). 
+* Tutorial on [(Neural) Spatio-Temporal Models](https://github.com/gerritgr/spatio-temporal-lecture) as part of the *Collaborative Intelligence* lecture at RPTU. 
 * [LLM4Science: Current Trends and Future Prospects of a New Paradigm](https://medium.com/@gerritgr/llm4science-current-trends-and-future-prospects-of-a-new-paradigm-e6b53c61df74) 
 * I contributed to the [deep learning for computer-aided drug design tutorial](https://github.com/volkamerlab/teachopencadd/tree/master) (T033 - T038) series.
 * [7 Reasons Not to Use ODEs for Epidemic Modeling](https://gerritgr.medium.com/7-reasons-not-to-use-odes-for-epidemic-modeling-bf451037a97f) 
