@@ -83,6 +83,7 @@ I work at the research department on [Data Science and its Applications (DSA)](
 <br>
 # <i class="fa-solid fa-school"></i> Teaching 
 
+* Engineering with Generative AI (WS 24/25) (Lecture at RPTU)
 * [Bridging the Gap - Language Models and Structured Knowledge in AI (SoSe 24)](https://mosi.uni-saarland.de/lectures/24_1_bridging_the_gap/) 
 * [Advanced Topics in Diffusion Modeling: From Theory to Implementation (WS 23/23)](https://mosi.uni-saarland.de/lectures/23_2_deep_diffusion/) 
 * [AI for the Social Good (SoSe 23)](https://mosi.uni-saarland.de/lectures/23_1_ai_for_the_social_good) 
@@ -101,7 +102,8 @@ I work at the research department on [Data Science and its Applications (DSA)](
 <br>
 # <i class="fa-brands fa-medium"></i> Tutorials, Talks, and Opinion Pieces
 
-* Talk and tutorial on *Language Models and Structured Knowledge in AI* as part of the [Inria-DFKI European Summer School](https://idessai.eu/venue-2024/) 
+* Talk on *Generative AI for Drug Discovery: Dreaming New (Useful) Molecules* as part of the [Society of Spanish Scientists in Germany (CERFA) 2024 Symposium: “Excuse me, there is Artificial Intelligence in my Soup”](https://cerfa.de/blog/2024/09/06/symposium-2024-excuse-me-there-is-artificial-intelligence-in-my-soup/)
+* Talk and tutorial on [Language Models and Structured Knowledge in AI](https://github.com/gerritgr/LLMSummerSchool) as part of the [Inria-DFKI European Summer School](https://idessai.eu/venue-2024/) 
 * Talk on [Molecule Generation with Graph Neural Networks and Probabilistic Diffusion](https://scads.ai/education/summer-schools/summer-school-2024/dr-gerrit-grossmann/) as part of the [ScaDS.AI Summer School](https://scads.ai/education/summer-schools/summer-school-2024/). 
 * Tutorial on [(Neural) Spatio-Temporal Models](https://github.com/gerritgr/spatio-temporal-lecture) as part of the *Collaborative Intelligence* lecture at RPTU. 
 * [LLM4Science: Current Trends and Future Prospects of a New Paradigm](https://medium.com/@gerritgr/llm4science-current-trends-and-future-prospects-of-a-new-paradigm-e6b53c61df74) 
@@ -115,6 +117,10 @@ I work at the research department on [Data Science and its Applications (DSA)](
 # <i class="fa-solid fa-building-columns"></i> (Co-)Supervised Students
 
 <div>
+    <div style="display: flex; margin-bottom: 10px;">
+        <div style="min-width: 120px; font-weight: bold; align-items: center;"><br>2024</div>
+        <div><em>Simulation and Inference of Point Processes</em><br>Yehia Farghaly<br>Bachelor's thesis</div>
+    </div>
     <div style="display: flex; margin-bottom: 10px;">
         <div style="min-width: 120px; font-weight: bold; align-items: center;"><br>2024</div>
         <div><em>Computer-Aided Molecule Generation Using Optimal Transport and Variational Autoencoders</em><br>Magnus Cunow<br>Bachelor's thesis</div>
