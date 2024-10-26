@@ -119,6 +119,10 @@ I work at the research department on [Data Science and its Applications (DSA)](
 <div>
     <div style="display: flex; margin-bottom: 10px;">
         <div style="min-width: 120px; font-weight: bold; align-items: center;"><br>2024</div>
+        <div><em>Efficient Numerical Methods for Simulating Epidemic Spreading on Adaptive Networks</em><br>Désirée Wiltzius<br>Bachelor's thesis</div>
+    </div>
+    <div style="display: flex; margin-bottom: 10px;">
+        <div style="min-width: 120px; font-weight: bold; align-items: center;"><br>2024</div>
         <div><em>Simulation and Inference of Point Processes</em><br>Yehia Farghaly<br>Bachelor's thesis</div>
     </div>
     <div style="display: flex; margin-bottom: 10px;">
