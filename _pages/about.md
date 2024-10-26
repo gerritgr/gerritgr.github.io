@@ -83,7 +83,7 @@ I work at the research department on [Data Science and its Applications (DSA)](
 <br>
 # <i class="fa-solid fa-school"></i> Teaching 
 
-* Engineering with Generative AI (WS 24/25) (Lecture at RPTU)
+* [Engineering with Generative AI (WS 24/25) (Lecture at RPTU)](https://olat.vcrp.de/dmz/)
 * [Bridging the Gap - Language Models and Structured Knowledge in AI (SoSe 24)](https://mosi.uni-saarland.de/lectures/24_1_bridging_the_gap/) 
 * [Advanced Topics in Diffusion Modeling: From Theory to Implementation (WS 23/23)](https://mosi.uni-saarland.de/lectures/23_2_deep_diffusion/) 
 * [AI for the Social Good (SoSe 23)](https://mosi.uni-saarland.de/lectures/23_1_ai_for_the_social_good) 
