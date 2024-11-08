@@ -99,6 +99,7 @@ I work at the research department on [Data Science and its Applications (DSA)](
 * Pattern and Speech Recognition
 
 <a id="blog"></a>
+<a id="cerfa"></a>
 <br>
 # <i class="fa-brands fa-medium"></i> Tutorials, Talks, and Opinion Pieces
 
