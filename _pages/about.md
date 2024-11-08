@@ -102,9 +102,9 @@ I work at the research department on [Data Science and its Applications (DSA)](
 <br>
 # <i class="fa-brands fa-medium"></i> Tutorials, Talks, and Opinion Pieces
 
-* Talk on *Generative AI for Drug Discovery: Dreaming New (Useful) Molecules* as part of the [Society of Spanish Scientists in Germany (CERFA) 2024 Symposium: “Excuse me, there is Artificial Intelligence in my Soup”](https://cerfa.de/blog/2024/09/06/symposium-2024-excuse-me-there-is-artificial-intelligence-in-my-soup/)
+* Talk on *Generative AI for Drug Discovery: Dreaming New (Useful) Molecules* as part of the [Society of Spanish Scientists in Germany (CERFA) 2024 Symposium: “Excuse me, there is Artificial Intelligence in my Soup”](https://cerfa.de/blog/2024/09/06/symposium-2024-excuse-me-there-is-artificial-intelligence-in-my-soup/) ([find the slides here](https://github.com/gerritgr/cerfa_talk))
 * Talk and tutorial on [Language Models and Structured Knowledge in AI](https://github.com/gerritgr/LLMSummerSchool) as part of the [Inria-DFKI European Summer School](https://idessai.eu/venue-2024/) 
-* Talk on [Molecule Generation with Graph Neural Networks and Probabilistic Diffusion](https://scads.ai/education/summer-schools/summer-school-2024/dr-gerrit-grossmann/) as part of the [ScaDS.AI Summer School](https://scads.ai/education/summer-schools/summer-school-2024/). 
+* Talk on [Molecule Generation with Graph Neural Networks and Probabilistic Diffusion](https://scads.ai/education/summer-schools/summer-school-2024/dr-gerrit-grossmann/) as part of the [ScaDS.AI Summer School](https://scads.ai/education/summer-schools/summer-school-2024/) ([find the slides here](https://github.com/gerritgr/diffusion_gnn_tutorial)). 
 * Tutorial on [(Neural) Spatio-Temporal Models](https://github.com/gerritgr/spatio-temporal-lecture) as part of the *Collaborative Intelligence* lecture at RPTU. 
 * [LLM4Science: Current Trends and Future Prospects of a New Paradigm](https://medium.com/@gerritgr/llm4science-current-trends-and-future-prospects-of-a-new-paradigm-e6b53c61df74) 
 * I contributed to the [deep learning for computer-aided drug design tutorial](https://github.com/volkamerlab/teachopencadd/tree/master) (T033 - T038) series.
