@@ -160,6 +160,10 @@ I work at the research department on [Data Science and its Applications (DSA)](
     </div>
 </div>
 
+<div style="margin-top: 20px;">
+    Please find my <a href="https://gist.github.com/gerritgr/25f62c99dadff269966192d7ebbf005f" style="font-weight: bold; color: #007BFF;">How to Thesis</a> document.
+</div>
+
 <a id="theses"></a>
 <br>
 # <i class="fa-solid fa-user-graduate"></i> Theses  
