@@ -160,9 +160,10 @@ I work at the research department on [Data Science and its Applications (DSA)](
     </div>
 </div>
 
-<div style="margin-top: 20px;">
-    Please find my <a href="https://gist.github.com/gerritgr/25f62c99dadff269966192d7ebbf005f" style="font-weight: bold; color: #007BFF;">How to Thesis</a> document.
+<div style="margin-top: 20px; font-size: 10px; color: #555;">
+    You can find my _How to Thesis_ 📘 text <a href="https://gist.github.com/gerritgr/25f62c99dadff269966192d7ebbf005f" style="text-decoration: underline; color: inherit;">here</a>.
 </div>
+
 
 <a id="theses"></a>
 <br>
