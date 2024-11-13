@@ -160,8 +160,8 @@ I work at the research department on [Data Science and its Applications (DSA)](
     </div>
 </div>
 
-<div style="margin-top: 20px; font-size: 10px; color: #555;">
-    You can find my _How to Thesis_ 📘 text <a href="https://gist.github.com/gerritgr/25f62c99dadff269966192d7ebbf005f" style="text-decoration: underline; color: inherit;">here</a>.
+<div style="margin-top: 20px; font-size: 14px; color: #555;">
+    You can find my <i>How-to Thesis</i> 📘 guide <a href="https://gist.github.com/gerritgr/25f62c99dadff269966192d7ebbf005f" style="text-decoration: underline; color: inherit;">here</a>.
 </div>
 
 
