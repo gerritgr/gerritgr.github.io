@@ -239,6 +239,20 @@ I work at the research department on [Data Science and its Applications (DSA)](
      <div style="color: lightgray; align-self: flex-start; margin-left: 10px; white-space: nowrap; font-size: 200%;">2024</div> 
   </div>
 
+  <!-- Pirate -->
+  <div style="display: flex; justify-content: space-between; align-items: stretch; margin-bottom: 20px;">
+    <div style="display: flex; align-items: stretch;">
+      <img src="assets/img/publication_preview/pirate.jpg" alt="Dis preview" style="width: 100px; height: 100px; margin-right: 20px;">
+      <div style="flex-grow: 1; display: flex; flex-direction: column; justify-content: space-between;">
+        <p style="margin: 0;"><strong>GRIP: Physics-Informed Neural Network for Gradient Retention Time Prediction in Liquid Chromatography</strong></p>
+        <p style="margin: 0;">K. George, F.P. J. Haeckl, G. Großmann, A. Gurevich, A. Tagirdzhanov</p>
+        <p style="margin: 0;">Preprint, 2024</p> 
+        <p style="margin: 0;"><a href="https://biorxiv.org/content/10.1101/2024.11.11.622855v1"><i class="fa-regular fa-file-pdf"></i>PDF</a> </p>
+      </div>
+    </div>
+    <!-- <div style="color: lightgray; align-self: flex-start; margin-left: 10px; white-space: nowrap; font-size: 200%;">2022</div>  -->
+  </div>
+
   <!-- Enhancing -->
   <div style="display: flex; justify-content: space-between; align-items: stretch; margin-bottom: 20px;">
     <div style="display: flex; align-items: stretch;">
