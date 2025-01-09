@@ -31,7 +31,7 @@ I work at the research department on [Data Science and its Applications (DSA)](
 **Research Interests:** <br>
 🤖💡 My research revolves around the question: How can we integrate the distinct realms of __discrete structures__ such as graphs and networks with the __continuous nature__ of dynamic evolution, diffusion, and learning?
 
-🎲🕸️ I am developing numerical methods to analyze __stochastic dynamical processes__ on complex networks. This research aims to understand how networks shape __collective phenomena__ like epidemics and rumors.
+🎲🕸️ I am developing numerical methods to analyze _spatio-temporal_ and _stochastic_ __dynamical processes__. This research aims to understand how a substrate like a network shapes __collective phenomena__.
 
 🧪🧠 Additionally, in collaboration with the [NextAid](https://nextaid.cs.uni-saarland.de/) project, my focus is on __geometric deep learning__ for molecules. In this area, __probabilistic flow__ models offer an innovative approach to integrating geometric deep learning with stochastic processes. My current projects include advancing __neuro-symbolic__ guidance of diffusion models, implementing semi-supervised learning on __metabolic networks__, exploring the expressiveness of __message-passing__ architectures, and the development of non-parametric methods for network __reconstruction__.
 
@@ -118,6 +118,14 @@ I work at the research department on [Data Science and its Applications (DSA)](
 # <i class="fa-solid fa-building-columns"></i> (Co-)Supervised Students
 
 <div>
+    <div style="display: flex; margin-bottom: 10px;">
+        <div style="min-width: 120px; font-weight: bold; align-items: center;"><br>2025</div>
+        <div><em>Discrete Optimization for the Calibration of Metabolic Networks</em><br>Philipp Radder<br>Bachelor's thesis</div>
+    </div>
+    <div style="display: flex; margin-bottom: 10px;">
+        <div style="min-width: 120px; font-weight: bold; align-items: center;"><br>2024</div>
+        <div><em>Molecule Generation Using Latent Space Graph Diffusion</em><br>Prashanth Pombala<br>Master's thesis</div>
+    </div>
     <div style="display: flex; margin-bottom: 10px;">
         <div style="min-width: 120px; font-weight: bold; align-items: center;"><br>2024</div>
         <div><em>Efficient Numerical Methods for Simulating Epidemic Spreading on Adaptive Networks</em><br>Désirée Wiltzius<br>Bachelor's thesis</div>
