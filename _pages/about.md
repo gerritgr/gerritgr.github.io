@@ -73,6 +73,10 @@ I work at the research department on [Data Science and its Applications (DSA)](
         <div style="min-width: 120px; font-weight: bold;">2019 - 2022</div>
         <div>PhD (Dr. rer. nat) in computer science at the <em>Modeling and Simulation</em> group at <em>Saarland University</em></div>
     </div>
+  <div style="min-width: 120px; font-weight: bold;">2023 – Present</div>
+    <div>
+      Team Lead for the <em>Spatio-temporal Modeling and Forecasting</em> group and Senior Researcher at <em>DFKI</em>
+    </div>
 </div>
 
 
