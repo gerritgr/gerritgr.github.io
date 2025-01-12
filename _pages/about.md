@@ -73,9 +73,9 @@ I work at the research department on [Data Science and its Applications (DSA)](
         <div style="min-width: 120px; font-weight: bold;">2019 - 2022</div>
         <div>PhD (Dr. rer. nat) in computer science at the <em>Modeling and Simulation</em> group at <em>Saarland University</em></div>
     </div>
-  <div style="min-width: 120px; font-weight: bold;">2023 – Present</div>
-    <div>
-      Team Lead for the <em>Spatio-temporal Modeling and Forecasting</em> group and Senior Researcher at <em>DFKI</em>
+    <div style="display: flex; margin-bottom: 5px;">
+        <div style="min-width: 120px; font-weight: bold;">2023 - present</div>
+        Team Lead for <em>Spatio-temporal Modeling and Forecasting</em> at the <em>Data Science and its Applications</em> group and Senior Researcher at <em>DFKI</em>
     </div>
 </div>
 
@@ -129,6 +129,14 @@ I work at the research department on [Data Science and its Applications (DSA)](
     <div style="display: flex; margin-bottom: 10px;">
         <div style="min-width: 120px; font-weight: bold; align-items: center;"><br>2024</div>
         <div><em>Molecule Generation Using Latent Space Graph Diffusion</em><br>Prashanth Pombala<br>Master's thesis</div>
+    </div>
+    <div style="display: flex; margin-bottom: 10px;">
+        <div style="min-width: 120px; font-weight: bold; align-items: center;"><br>2024</div>
+        <div><em>Causal Spatio-Temporal Analysis of Event Data</em><br>Anishka Singh<br>Bachelor's thesis</div>
+    </div>
+    <div style="display: flex; margin-bottom: 10px;">
+        <div style="min-width: 120px; font-weight: bold; align-items: center;"><br>2024</div>
+        <div><em>Domain Generelization for Causal Learning in Spatio-Temporal Point Processes</em><br>Diya Narayanan<br>Bachelor's thesis</div>
     </div>
     <div style="display: flex; margin-bottom: 10px;">
         <div style="min-width: 120px; font-weight: bold; align-items: center;"><br>2024</div>
