@@ -124,6 +124,18 @@ I work at the research department on [Data Science and its Applications (DSA)](
 <div>
     <div style="display: flex; margin-bottom: 10px;">
         <div style="min-width: 120px; font-weight: bold; align-items: center;"><br>2025</div>
+        <div><em>Interpretable Reinforcement Learning for CardGames</em><br>Daniel Schmalz<br>Bachelor's thesis</div>
+    </div>
+    <div style="display: flex; margin-bottom: 10px;">
+        <div style="min-width: 120px; font-weight: bold; align-items: center;"><br>2025</div>
+        <div><em>Exploring the Weight Space of Neural Networks for Learning and Generation</em><br>Davronbek Islamov<br>Masters's thesis</div>
+    </div>
+    <div style="display: flex; margin-bottom: 10px;">
+        <div style="min-width: 120px; font-weight: bold; align-items: center;"><br>2025</div>
+        <div><em>Enhancing GNNs with Architecture-Agnostic Graph Transformations: A Systematic Analysis</em><br>Zhifei Li<br>Masters's thesis</div>
+    </div>
+    <div style="display: flex; margin-bottom: 10px;">
+        <div style="min-width: 120px; font-weight: bold; align-items: center;"><br>2025</div>
         <div><em>Discrete Optimization for the Calibration of Metabolic Networks</em><br>Philipp Radder<br>Bachelor's thesis</div>
     </div>
     <div style="display: flex; margin-bottom: 10px;">
@@ -244,6 +256,20 @@ I work at the research department on [Data Science and its Applications (DSA)](
 
 
 <div style="max-width: 100%;">
+
+  <!-- learn2clean -->
+  <div style="display: flex; justify-content: space-between; align-items: stretch; margin-bottom: 20px;">
+    <div style="display: flex; align-items: stretch;">
+      <img src="assets/img/publication_preview/cleansurvival.jpg" alt="Cleansurvival" style="width: 100px; height: 100px; margin-right: 20px;">
+      <div style="flex-grow: 1; display: flex; flex-direction: column; justify-content: space-between;">
+        <p style="margin: 0;"><strong>Cleansurvival: Automated Data Preprocessing for Time-To-Event Models Using Reinforcement Learning</strong></p>
+        <p style="margin: 0;">Y. Koka, D. Selby, G. Großmann, S. Vollmer</p>
+        <p style="margin: 0;"><i>Preprint</i>, 2025</p> 
+        <p style="margin: 0;"><a href="https://arxiv.org/pdf/2502.03946"><i class="fa-regular fa-file-pdf"></i>PDF</a> </p>
+      </div>
+    </div>
+     <div style="color: lightgray; align-self: flex-start; margin-left: 10px; white-space: nowrap; font-size: 200%;">2025</div> 
+  </div>
 
   <!-- Spatio-temporal -->
   <div style="display: flex; justify-content: space-between; align-items: stretch; margin-bottom: 20px;">
