@@ -75,7 +75,10 @@ I work at the research department on [Data Science and its Applications (DSA)](
     </div>
     <div style="display: flex; margin-bottom: 5px;">
         <div style="min-width: 120px; font-weight: bold;">2023 - present</div>
-        Team Lead for <em>Spatio-temporal Modeling and Forecasting</em> at the <em>Data Science and its Applications</em> group and Senior Researcher at <em>DFKI</em>
+        <div>
+            Team Lead for <em>Spatio-temporal Modeling and Forecasting</em> at the <em>Data Science and its Applications</em> group 
+            and Senior Researcher at <em>DFKI</em>
+        </div>
     </div>
 </div>
 
@@ -124,7 +127,7 @@ I work at the research department on [Data Science and its Applications (DSA)](
 <div>
     <div style="display: flex; margin-bottom: 10px;">
         <div style="min-width: 120px; font-weight: bold; align-items: center;"><br>2025</div>
-        <div><em>Interpretable Reinforcement Learning for CardGames</em><br>Daniel Schmalz<br>Bachelor's thesis</div>
+        <div><em>Interpretable Reinforcement Learning for Card Games</em><br>Daniel Schmalz<br>Bachelor's thesis</div>
     </div>
     <div style="display: flex; margin-bottom: 10px;">
         <div style="min-width: 120px; font-weight: bold; align-items: center;"><br>2025</div>
