@@ -263,7 +263,7 @@ I work at the research department on [Data Science and its Applications (DSA)](
   <!-- stpp -->
   <div style="display: flex; justify-content: space-between; align-items: stretch; margin-bottom: 20px;">
     <div style="display: flex; align-items: stretch;">
-      <img src="assets/img/publication_preview/stppreview" alt="Cleansurvival" style="width: 100px; height: 100px; margin-right: 20px;">
+      <img src="assets/img/publication_preview/stppreview.jpg" alt="Cleansurvival" style="width: 100px; height: 100px; margin-right: 20px;">
       <div style="flex-grow: 1; display: flex; flex-direction: column; justify-content: space-between;">
         <p style="margin: 0;"><strong>Neural Spatiotemporal Point Processes: Trends and Challenges</strong></p>
         <p style="margin: 0;">S. Mukherjee, M. Elhamdi, G. Mohler, D. Selby, Y. Xie, S. Vollmer, G. Großmann</p>
@@ -277,7 +277,7 @@ I work at the research department on [Data Science and its Applications (DSA)](
     <!-- graph matching -->
   <div style="display: flex; justify-content: space-between; align-items: stretch; margin-bottom: 20px;">
     <div style="display: flex; align-items: stretch;">
-      <img src="assets/img/publication_preview/graphmatching" alt="GraphMatching" style="width: 100px; height: 100px; margin-right: 20px;">
+      <img src="assets/img/publication_preview/graphmatching.jpg" alt="GraphMatching" style="width: 100px; height: 100px; margin-right: 20px;">
       <div style="flex-grow: 1; display: flex; flex-direction: column; justify-content: space-between;">
         <p style="margin: 0;"><strong>Auto-encoding Molecules: Graph-Matching Capabilities Matter</strong></p>
         <p style="margin: 0;">M. Cunow, G. Großmann</p>
