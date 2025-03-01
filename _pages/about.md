@@ -260,6 +260,34 @@ I work at the research department on [Data Science and its Applications (DSA)](
 
 <div style="max-width: 100%;">
 
+  <!-- stpp -->
+  <div style="display: flex; justify-content: space-between; align-items: stretch; margin-bottom: 20px;">
+    <div style="display: flex; align-items: stretch;">
+      <img src="assets/img/publication_preview/stppreview" alt="Cleansurvival" style="width: 100px; height: 100px; margin-right: 20px;">
+      <div style="flex-grow: 1; display: flex; flex-direction: column; justify-content: space-between;">
+        <p style="margin: 0;"><strong>Neural Spatiotemporal Point Processes: Trends and Challenges</strong></p>
+        <p style="margin: 0;">S. Mukherjee, M. Elhamdi, G. Mohler, D. Selby, Y. Xie, S. Vollmer, G. Großmann</p>
+        <p style="margin: 0;"><i>Preprint</i>, 2025</p> 
+        <p style="margin: 0;"><a href="https://arxiv.org/pdf/2502.09341v1"><i class="fa-regular fa-file-pdf"></i>PDF</a> </p>
+      </div>
+    </div>
+     <div style="color: lightgray; align-self: flex-start; margin-left: 10px; white-space: nowrap; font-size: 200%;">2025</div> 
+  </div>
+
+    <!-- graph matching -->
+  <div style="display: flex; justify-content: space-between; align-items: stretch; margin-bottom: 20px;">
+    <div style="display: flex; align-items: stretch;">
+      <img src="assets/img/publication_preview/graphmatching" alt="GraphMatching" style="width: 100px; height: 100px; margin-right: 20px;">
+      <div style="flex-grow: 1; display: flex; flex-direction: column; justify-content: space-between;">
+        <p style="margin: 0;"><strong>Auto-encoding Molecules: Graph-Matching Capabilities Matter</strong></p>
+        <p style="margin: 0;">M. Cunow, G. Großmann</p>
+        <p style="margin: 0;"><i>Preprint</i>, 2025</p> 
+        <p style="margin: 0;"><a href="https://arxiv.org/pdf/2502.03946"><i class="fa-regular fa-file-pdf"></i>PDF</a> </p>
+      </div>
+    </div>
+    <!-- <div style="color: lightgray; align-self: flex-start; margin-left: 10px; white-space: nowrap; font-size: 200%;">2025</div>   -->
+  </div>
+
   <!-- learn2clean -->
   <div style="display: flex; justify-content: space-between; align-items: stretch; margin-bottom: 20px;">
     <div style="display: flex; align-items: stretch;">
@@ -271,7 +299,7 @@ I work at the research department on [Data Science and its Applications (DSA)](
         <p style="margin: 0;"><a href="https://arxiv.org/pdf/2502.03946"><i class="fa-regular fa-file-pdf"></i>PDF</a> </p>
       </div>
     </div>
-     <div style="color: lightgray; align-self: flex-start; margin-left: 10px; white-space: nowrap; font-size: 200%;">2025</div> 
+    <!-- <div style="color: lightgray; align-self: flex-start; margin-left: 10px; white-space: nowrap; font-size: 200%;">2025</div>   -->
   </div>
 
   <!-- Spatio-temporal -->
