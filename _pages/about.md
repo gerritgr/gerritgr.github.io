@@ -282,7 +282,7 @@ I work at the research department on [Data Science and its Applications (DSA)](
         <p style="margin: 0;"><strong>Auto-encoding Molecules: Graph-Matching Capabilities Matter</strong></p>
         <p style="margin: 0;">M. Cunow, G. Großmann</p>
         <p style="margin: 0;"><i>Preprint</i>, 2025</p> 
-        <p style="margin: 0;"><a href="https://arxiv.org/pdf/2502.03946"><i class="fa-regular fa-file-pdf"></i>PDF</a> </p>
+        <p style="margin: 0;"><a href="https://arxiv.org/pdf/2503.00426"><i class="fa-regular fa-file-pdf"></i>PDF</a> </p>
       </div>
     </div>
     <!-- <div style="color: lightgray; align-self: flex-start; margin-left: 10px; white-space: nowrap; font-size: 200%;">2025</div>   -->
