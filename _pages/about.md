@@ -274,6 +274,20 @@ I work at the research department on [Data Science and its Applications (DSA)](
      <div style="color: lightgray; align-self: flex-start; margin-left: 10px; white-space: nowrap; font-size: 200%;">2025</div> 
   </div>
 
+    <!-- chaos -->
+  <div style="display: flex; justify-content: space-between; align-items: stretch; margin-bottom: 20px;">
+    <div style="display: flex; align-items: stretch;">
+      <img src="assets/img/publication_preview/chaosbutterfly.jpg" alt="Chaos" style="width: 100px; height: 100px; margin-right: 20px;">
+      <div style="flex-grow: 1; display: flex; flex-direction: column; justify-content: space-between;">
+        <p style="margin: 0;"><strong>When Counterfactual Reasoning Fails: Chaos and Real-World Complexity</strong></p>
+        <p style="margin: 0;">Y. Aalaila, G. Großmann, S. Mukherjee, J. Wahl, S. Vollmer</p>
+        <p style="margin: 0;"><i>Preprint</i>, 2025</p> 
+        <p style="margin: 0;"><a href="https://arxiv.org/pdf/2503.23820"><i class="fa-regular fa-file-pdf"></i>PDF</a> </p>
+      </div>
+    </div>
+    <!-- <div style="color: lightgray; align-self: flex-start; margin-left: 10px; white-space: nowrap; font-size: 200%;">2025</div>   -->
+  </div>
+
     <!-- graph matching -->
   <div style="display: flex; justify-content: space-between; align-items: stretch; margin-bottom: 20px;">
     <div style="display: flex; align-items: stretch;">
