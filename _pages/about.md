@@ -274,6 +274,21 @@ I work at the research department on [Data Science and its Applications (DSA)](
      <div style="color: lightgray; align-self: flex-start; margin-left: 10px; white-space: nowrap; font-size: 200%;">2025</div> 
   </div>
 
+    <!-- story agents -->
+  <div style="display: flex; justify-content: space-between; align-items: stretch; margin-bottom: 20px;">
+    <div style="display: flex; align-items: stretch;">
+      <img src="assets/img/publication_preview/storyagents.jpg" alt="StoryAgents" style="width: 100px; height: 100px; margin-right: 20px;">
+      <div style="flex-grow: 1; display: flex; flex-direction: column; justify-content: space-between;">
+        <p style="margin: 0;"><strong>The Power of Stories: Narrative Priming Shapes How LLM Agents Collaborate and Compete</strong></p>
+        <p style="margin: 0;">G. Großmann, L. Ivanova, S. L. Poduru, M. Tabrizian, I. Mesabah, D. Selby, S. Vollmer</p>
+        <p style="margin: 0;"><i>Preprint</i>, 2025</p> 
+        <p style="margin: 0;"><a href="https://arxiv.org/pdf/2505.03961"><i class="fa-regular fa-file-pdf"></i>PDF</a> </p>
+      </div>
+    </div>
+    <!-- <div style="color: lightgray; align-self: flex-start; margin-left: 10px; white-space: nowrap; font-size: 200%;">2025</div>   -->
+  </div>
+
+
     <!-- chaos -->
   <div style="display: flex; justify-content: space-between; align-items: stretch; margin-bottom: 20px;">
     <div style="display: flex; align-items: stretch;">
