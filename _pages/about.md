@@ -354,10 +354,10 @@ I am also a member of the [Machine Learning & Global Health Network (MLGH)](http
         <p style="margin: 0;"><strong>Visible Neural Networks for Multi-Omics Integration: A Critical Review</strong></p>
         <p style="margin: 0;">D. A. Selby, R. Jakhmola, M. Sprang, G. Großmann, H. Raki, N. Maani, D. Pavliuk, J. Ewald, S. Vollmer</p>
         <p style="margin: 0;">Preprint, 2024</p> 
-        <p style="margin: 0;"><a href="https://biorxiv.org/content/10.1101/2024.12.09.627465v1"><i class="fa-regular fa-file-pdf"></i>PDF</a> </p>
+        <p style="margin: 0;"><a href="https://www.frontiersin.org/journals/artificial-intelligence/articles/10.3389/frai.2025.1595291"><i class="fa-regular fa-file-pdf"></i>PDF</a> </p>
       </div>
     </div>
-    <!-- <div style="color: lightgray; align-self: flex-start; margin-left: 10px; white-space: nowrap; font-size: 200%;">2022</div>  -->
+    <!-- <div style="color: lightgray; align-self: flex-start; margin-left: 10px; white-space: nowrap; font-size: 200%;">2022</div>  https://biorxiv.org/content/10.1101/2024.12.09.627465v1   -->
   </div>
 
   <!-- LatentMol -->
