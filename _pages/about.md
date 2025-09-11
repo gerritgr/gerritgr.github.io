@@ -285,13 +285,27 @@ Please also check out our <span style="color:#2798ba;">★</span> [STAR: Space �
       <div style="flex-grow: 1; display: flex; flex-direction: column; justify-content: space-between;">
         <p style="margin: 0;"><strong>The Power of Stories: Narrative Priming Shapes How LLM Agents Collaborate and Compete</strong></p>
         <p style="margin: 0;">G. Großmann, L. Ivanova, S. L. Poduru, M. Tabrizian, I. Mesabah, D. Selby, S. Vollmer</p>
-        <p style="margin: 0;"><i>Preprint</i>, 2025</p> 
+        <p style="margin: 0;"><i> [NETGCOOP 2025](https://netgcoop2025.univ-avignon.fr/)  </i>, 2025</p> 
         <p style="margin: 0;"><a href="https://arxiv.org/pdf/2505.03961"><i class="fa-regular fa-file-pdf"></i>PDF</a> </p>
       </div>
     </div>
     <!-- <div style="color: lightgray; align-self: flex-start; margin-left: 10px; white-space: nowrap; font-size: 200%;">2025</div>   -->
   </div>
 
+    <!-- clam -->
+  <div style="display: flex; justify-content: space-between; align-items: stretch; margin-bottom: 20px;">
+    <div style="display: flex; align-items: stretch;">
+      <img src="assets/img/publication_preview/clam.jpg" alt="StoryAgents" style="width: 100px; height: 100px; margin-right: 20px;">
+      <div style="flex-grow: 1; display: flex; flex-direction: column; justify-content: space-between;">
+        <p style="margin: 0;"><strong>CLAM: Causal Spatial Disaggregation to Infer Local Effects From Coarse Data</strong></p>
+        <p style="margin: 0;">G. Großmann, S. Mukherjee, S. Vollmer</p>
+        <p style="margin: 0;"><i>Preprint</i>, 2025</p> 
+        <p style="margin: 0;"><a href="https://github.com/spacetimecausality/spacetimecausality.github.io/blob/main/assets/pdf/CLAM.pdf"><i class="fa-regular fa-file-pdf"></i>PDF</a> </p>
+      </div>
+    </div>
+    <!-- <div style="color: lightgray; align-self: flex-start; margin-left: 10px; white-space: nowrap; font-size: 200%;">2025</div>   -->
+  </div>
+  
 
     <!-- chaos -->
   <div style="display: flex; justify-content: space-between; align-items: stretch; margin-bottom: 20px;">
