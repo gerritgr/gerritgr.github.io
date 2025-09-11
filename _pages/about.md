@@ -36,6 +36,9 @@ I am also a member of the [Machine Learning & Global Health Network (MLGH)](http
 
 🧪🧠 Additionally, in collaboration with the [NextAid](https://nextaid.cs.uni-saarland.de/) project, my focus is on __geometric deep learning__ for molecules. In this area, __probabilistic flow__ models offer an innovative approach to integrating geometric deep learning with stochastic processes. My current projects include advancing __neuro-symbolic__ guidance of diffusion models, implementing semi-supervised learning on __metabolic networks__, exploring the expressiveness of __message-passing__ architectures, and the development of non-parametric methods for network __reconstruction__.
 
+Please also check out our <span style="color:blue;">★</span> [**STAR: Space × Time × Causality Reading Group**](https://spacetimecausality.github.io/).
+
+
 **Overview:** 
 - <i class="fa-solid fa-seedling"></i> [Short CV](#short-cv)
 - <i class="fa-solid fa-school"></i> [Teaching](#teaching) 
