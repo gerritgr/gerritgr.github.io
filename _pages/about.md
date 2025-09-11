@@ -285,7 +285,7 @@ Please also check out our <span style="color:#2798ba;">★</span> [STAR: Space �
       <div style="flex-grow: 1; display: flex; flex-direction: column; justify-content: space-between;">
         <p style="margin: 0;"><strong>The Power of Stories: Narrative Priming Shapes How LLM Agents Collaborate and Compete</strong></p>
         <p style="margin: 0;">G. Großmann, L. Ivanova, S. L. Poduru, M. Tabrizian, I. Mesabah, D. Selby, S. Vollmer</p>
-        <p style="margin: 0;"><i> [NETGCOOP 2025](https://netgcoop2025.univ-avignon.fr/)  </i>, 2025</p> 
+        <p style="margin: 0;"> <i><a href="https://netgcoop2025.univ-avignon.fr/">NETGCOOP 2025</a></i>, 2025 </p>
         <p style="margin: 0;"><a href="https://arxiv.org/pdf/2505.03961"><i class="fa-regular fa-file-pdf"></i>PDF</a> </p>
       </div>
     </div>
