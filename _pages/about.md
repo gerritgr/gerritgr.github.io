@@ -26,7 +26,7 @@ social: false  # includes social icons at the bottom of the page
 
 
 Hello World! My name is Gerrit Großmann, welcome to my personal academic webpage!
-I work at the research department on [Data Science and its Applications (DSA)](dsa.dfki.de) (formerly [Neuro-mechanistic Modeling](https://www.dfki.de/nmm)) at the  <a href='https://www.dfki.de/web'>German Research Center for Artificial Intelligence (DFKI)</a>.
+I work at the research department on [Data Science and its Applications (DSA)](https://dsa.dfki.de) (formerly [Neuro-mechanistic Modeling](https://www.dfki.de/nmm)) at the  <a href='https://www.dfki.de/web'>German Research Center for Artificial Intelligence (DFKI)</a>.
 I am also a member of the [Machine Learning & Global Health Network (MLGH)](https://mlgh.net/).
 
 **Research Interests:** <br>
