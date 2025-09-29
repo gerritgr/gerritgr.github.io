@@ -293,18 +293,19 @@ Please also check out our <span style="color:#2798ba;">★</span> [STAR: Space �
   </div>
 
     <!-- clam -->
-  <div style="display: flex; justify-content: space-between; align-items: stretch; margin-bottom: 20px;">
-    <div style="display: flex; align-items: stretch;">
-      <img src="assets/img/clam.jpg" alt="Clam" style="width: 100px; height: 100px; margin-right: 20px;">
-      <div style="flex-grow: 1; display: flex; flex-direction: column; justify-content: space-between;">
-        <p style="margin: 0;"><strong>CLAM: Causal Spatial Disaggregation to Infer Local Effects From Coarse Data</strong></p>
-        <p style="margin: 0;">G. Großmann, S. Mukherjee, S. Vollmer</p>
-        <p style="margin: 0;">Accepted at Neurip's [CauScien: Uncovering Causality in Science Workshop](https://sites.google.com/view/causcien), 2025</p> 
-        <p style="margin: 0;"><a href="https://github.com/spacetimecausality/spacetimecausality.github.io/blob/main/assets/pdf/CLAM.pdf"><i class="fa-regular fa-file-pdf"></i>PDF</a> </p>
-      </div>
+<div style="display: flex; justify-content: space-between; align-items: stretch; margin-bottom: 20px;">
+  <div style="display: flex; align-items: stretch;">
+    <img src="assets/img/clam.jpg" alt="Clam" style="width: 100px; height: 100px; margin-right: 20px;">
+    <div style="flex-grow: 1; display: flex; flex-direction: column; justify-content: space-between;">
+      <p style="margin: 0;"><strong>CLAM: Causal Spatial Disaggregation to Infer Local Effects From Coarse Data</strong></p>
+      <p style="margin: 0;">G. Großmann, S. Mukherjee, S. Vollmer</p>
+      <p style="margin: 0;">Accepted at NeurIPS <a href="https://sites.google.com/view/causcien">CauScien: Uncovering Causality in Science Workshop</a>, 2025</p>
+      <p style="margin: 0;"><a href="https://github.com/spacetimecausality/spacetimecausality.github.io/blob/main/assets/pdf/CLAM.pdf"><i class="fa-regular fa-file-pdf"></i> PDF</a></p>
     </div>
-    <!-- <div style="color: lightgray; align-self: flex-start; margin-left: 10px; white-space: nowrap; font-size: 200%;">2025</div>   -->
   </div>
+  <!-- <div style="color: lightgray; align-self: flex-start; margin-left: 10px; white-space: nowrap; font-size: 200%;">2025</div>   -->
+</div>
+
   
 
     <!-- chaos -->
