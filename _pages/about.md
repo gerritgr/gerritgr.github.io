@@ -278,6 +278,20 @@ Please also check out our <span style="color:#2798ba;">★</span> [STAR: Space �
      <div style="color: lightgray; align-self: flex-start; margin-left: 10px; white-space: nowrap; font-size: 200%;">2025</div> 
   </div>
 
+  <!-- medaka -->
+  <div style="display: flex; justify-content: space-between; align-items: stretch; margin-bottom: 20px;">
+    <div style="display: flex; align-items: stretch;">
+      <img src="assets/img/publication_preview/medaka.jpg" alt="medaka" style="width: 100px; height: 100px; margin-right: 20px;">
+      <div style="flex-grow: 1; display: flex; flex-direction: column; justify-content: space-between;">
+        <p style="margin: 0;"><strong>MEDAKA: Construction of Biomedical Knowledge Graphs Using Large Language Models</strong></p>
+        <p style="margin: 0;">S. Sengupta, D. Selby, S. Vollmer, G. Großmann</p>
+        <p style="margin: 0;"><i>Preprint</i>, 2025</p> 
+        <p style="margin: 0;"><a href="https://arxiv.org/abs/2509.26128"><i class="fa-regular fa-file-pdf"></i>PDF</a> </p>
+      </div>
+    </div>
+     <div style="color: lightgray; align-self: flex-start; margin-left: 10px; white-space: nowrap; font-size: 200%;">2025</div> 
+  </div>
+
     <!-- story agents -->
   <div style="display: flex; justify-content: space-between; align-items: stretch; margin-bottom: 20px;">
     <div style="display: flex; align-items: stretch;">
