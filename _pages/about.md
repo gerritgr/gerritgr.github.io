@@ -289,7 +289,7 @@ Please also check out our <span style="color:#2798ba;">â˜…</span> [STAR: Space Ã
         <p style="margin: 0;"><a href="https://arxiv.org/abs/2509.26128"><i class="fa-regular fa-file-pdf"></i>PDF</a> </p>
       </div>
     </div>
-     <div style="color: lightgray; align-self: flex-start; margin-left: 10px; white-space: nowrap; font-size: 200%;">2025</div> 
+      <!--  <div style="color: lightgray; align-self: flex-start; margin-left: 10px; white-space: nowrap; font-size: 200%;">2025</div>    -->
   </div>
 
     <!-- story agents -->
