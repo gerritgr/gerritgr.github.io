@@ -385,8 +385,8 @@ Please also check out our <span style="color:#2798ba;">★</span> [STAR: Space �
       <div style="flex-grow: 1; display: flex; flex-direction: column; justify-content: space-between;">
         <p style="margin: 0;"><strong>Visible Neural Networks for Multi-Omics Integration: A Critical Review</strong></p>
         <p style="margin: 0;">D. A. Selby, R. Jakhmola, M. Sprang, G. Großmann, H. Raki, N. Maani, D. Pavliuk, J. Ewald, S. Vollmer</p>
-        <p style="margin: 0;">Preprint, 2024</p> 
-        <p style="margin: 0;"><a href="https://www.frontiersin.org/journals/artificial-intelligence/articles/10.3389/frai.2025.1595291"><i class="fa-regular fa-file-pdf"></i>PDF</a> </p>
+        <p style="margin: 0;">Frontiers in Artificial Intelligence, 2024</p> 
+        <p style="margin: 0;"><a href="https://www.frontiersin.org/journals/artificial-intelligence/articles/10.3389/frai.2025.1595291/full"><i class="fa-regular fa-file-pdf"></i>PDF</a> </p>
       </div>
     </div>
     <!-- <div style="color: lightgray; align-self: flex-start; margin-left: 10px; white-space: nowrap; font-size: 200%;">2022</div>  https://biorxiv.org/content/10.1101/2024.12.09.627465v1   -->
@@ -664,7 +664,7 @@ Please also check out our <span style="color:#2798ba;">★</span> [STAR: Space �
     <div style="display: flex; align-items: stretch;">
       <img src="assets/img/publication_preview/simulation.jpg" alt="Dis preview" style="width: 100px; height: 100px; margin-right: 20px;">
       <div style="flex-grow: 1; display: flex; flex-direction: column; justify-content: space-between;">
-        <p style="margin: 0;"><strong>Rejection-Based Simulation of Non-Markovian Agents on Complex Networks</strong></p>
+        <p style="margin: 0;"><strong>Rejection-Based Simulation of Stochastic Spreading Processes on Complex Networks</strong></p>
         <p style="margin: 0;">G. Großmann, V. Wolf</p>
         <p style="margin: 0;"><i>6th International Workshop on Hybrid Systems Biology (HSB)</i>, 2019</p> 
         <p style="margin: 0;"><a href="https://www.researchgate.net/publication/330009206_Rejection-Based_Simulation_of_Stochastic_Spreading_Processes_on_Complex_Networks"><i class="fa-regular fa-file-pdf"></i>PDF</a>   &nbsp; &nbsp;   <a href="github.com/gerritgr/Rejection-Based-Epidemic-Simulation"><i class="fab fa-github"></i>GitHub</a> &nbsp; &nbsp;   <a href="https://link.springer.com/chapter/10.1007/978-3-030-28042-0_5"><i class="fa-solid fa-dollar-sign"></i>Publication</a> </p>
