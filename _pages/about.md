@@ -281,7 +281,7 @@ Please also check out our <span style="color:#2798ba;">★</span> [STAR: Space �
   <!-- BioDisco -->
   <div style="display: flex; justify-content: space-between; align-items: stretch; margin-bottom: 20px;">
     <div style="display: flex; align-items: stretch;">
-      <img src="assets/img/biodisco" alt="medaka" style="width: 100px; height: 100px; margin-right: 20px;">
+      <img src="assets/img/biodisco.jpg" alt="medaka" style="width: 100px; height: 100px; margin-right: 20px;">
       <div style="flex-grow: 1; display: flex; flex-direction: column; justify-content: space-between;">
         <p style="margin: 0;"><strong>Biodisco: Multi-Agent Hypothesis Generation With Dual-Mode Evidence, Iterative Feedback and Temporal Evaluation</strong></p>
         <p style="margin: 0;">Y. Ke, K. George, K. Pandya, D. Blumenthal, M. Sprang, G. Großmann, S. Vollmer, D. Selby</p>
