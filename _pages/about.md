@@ -38,6 +38,8 @@ I am also a member of the [Machine Learning & Global Health Network (MLGH)](http
 
 Please also check out our <span style="color:#2798ba;">★</span> [STAR: Space × Time × Causality Reading Group](https://spacetimecausality.github.io/).
 
+Also, I am a mentor at <span style="color:#e67e22;">✦</span> <a href="https://ai-grid.org" target="_blank" rel="noopener"><strong>AI Grid</strong></a>.
+
 
 **Overview:** 
 - <i class="fa-solid fa-seedling"></i> [Short CV](#short-cv)
