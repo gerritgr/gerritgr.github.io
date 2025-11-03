@@ -294,6 +294,30 @@ Also, I am a mentor at <span style="color:#e67e22;">✦</span> <a href="https://
       <!--  <div style="color: lightgray; align-self: flex-start; margin-left: 10px; white-space: nowrap; font-size: 200%;">2025</div>    -->
   </div>
 
+<!-- Graph Matching -->
+<div style="display: flex; justify-content: space-between; align-items: stretch; margin-bottom: 20px;">
+  <div style="display: flex; align-items: stretch;">
+    <img src="assets/img/publication_preview/graphmatching.jpg"
+         alt="Graph Matching"
+         style="width: 100px; height: 100px; margin-right: 20px; object-fit: cover; border-radius: 4px;">
+    <div style="flex-grow: 1; display: flex; flex-direction: column; justify-content: space-between;">
+      <p style="margin: 0;"><strong>Auto-encoding Molecules: Graph-Matching Capabilities Matter</strong></p>
+      <p style="margin: 0;">M. Cunow, G. Großmann, V. Wolf, S. Vollmer</p>
+      <p style="margin: 0;"><i>Preprint</i>, 2025</p>
+      <p style="margin: 0;">
+        <a href="https://arxiv.org/pdf/2503.00426" target="_blank" rel="noopener">
+          <i class="fa-regular fa-file-pdf"></i> PDF
+        </a>,
+        accepted at <i>NeurIPS / ELLIS</i>
+        <a href="https://moleculediscovery.github.io/workshop2025/" target="_blank" rel="noopener">
+          Generative Models, LLMs, and the Future of Molecular AI [ML4Molecules 2025] Workshop
+        </a>
+      </p>
+    </div>
+  </div>
+  <!-- <div style="color: lightgray; align-self: flex-start; margin-left: 10px; white-space: nowrap; font-size: 200%;">2025</div> -->
+</div>
+
   <!-- BioDisco -->
   <div style="display: flex; justify-content: space-between; align-items: stretch; margin-bottom: 20px;">
     <div style="display: flex; align-items: stretch;">
@@ -361,20 +385,6 @@ Also, I am a mentor at <span style="color:#e67e22;">✦</span> <a href="https://
         <p style="margin: 0;">Y. Aalaila, G. Großmann, S. Mukherjee, J. Wahl, S. Vollmer</p>
         <p style="margin: 0;"><i>Preprint</i>, 2025</p> 
         <p style="margin: 0;"><a href="https://arxiv.org/pdf/2503.23820"><i class="fa-regular fa-file-pdf"></i>PDF</a> </p>
-      </div>
-    </div>
-    <!-- <div style="color: lightgray; align-self: flex-start; margin-left: 10px; white-space: nowrap; font-size: 200%;">2025</div>   -->
-  </div>
-
-    <!-- graph matching -->
-  <div style="display: flex; justify-content: space-between; align-items: stretch; margin-bottom: 20px;">
-    <div style="display: flex; align-items: stretch;">
-      <img src="assets/img/publication_preview/graphmatching.jpg" alt="GraphMatching" style="width: 100px; height: 100px; margin-right: 20px;">
-      <div style="flex-grow: 1; display: flex; flex-direction: column; justify-content: space-between;">
-        <p style="margin: 0;"><strong>Auto-encoding Molecules: Graph-Matching Capabilities Matter</strong></p>
-        <p style="margin: 0;">M. Cunow, G. Großmann</p>
-        <p style="margin: 0;"><i>Preprint</i>, 2025</p> 
-        <p style="margin: 0;"><a href="https://arxiv.org/pdf/2503.00426"><i class="fa-regular fa-file-pdf"></i>PDF</a> </p>
       </div>
     </div>
     <!-- <div style="color: lightgray; align-self: flex-start; margin-left: 10px; white-space: nowrap; font-size: 200%;">2025</div>   -->
