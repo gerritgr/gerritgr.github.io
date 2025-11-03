@@ -278,6 +278,20 @@ Please also check out our <span style="color:#2798ba;">★</span> [STAR: Space �
      <div style="color: lightgray; align-self: flex-start; margin-left: 10px; white-space: nowrap; font-size: 200%;">2025</div> 
   </div>
 
+  <!-- Squid -->
+  <div style="display: flex; justify-content: space-between; align-items: stretch; margin-bottom: 20px;">
+    <div style="display: flex; align-items: stretch;">
+      <img src="assets/img/squid" alt="squid" style="width: 100px; height: 100px; margin-right: 20px;">
+      <div style="flex-grow: 1; display: flex; flex-direction: column; justify-content: space-between;">
+        <p style="margin: 0;"><strong>SQUID: A Bayesian Approach for Physics-Informed Event Modeling</strong></p>
+        <p style="margin: 0;">S. Mukherjee, S. Vollmer, G. Großmann</p>
+        <p style="margin: 0;"><i>Preprint</i>, 2025</p> 
+        <p style="margin: 0;">Accepted at EurIPS <a href="https://differentiable-systems.github.io/workshop-eurips-2025/">Differentiable Systems and Scientific Machine Learning Workshop</a>, 2025</p>
+      </div>
+    </div>
+      <!--  <div style="color: lightgray; align-self: flex-start; margin-left: 10px; white-space: nowrap; font-size: 200%;">2025</div>    -->
+  </div>
+
   <!-- BioDisco -->
   <div style="display: flex; justify-content: space-between; align-items: stretch; margin-bottom: 20px;">
     <div style="display: flex; align-items: stretch;">
