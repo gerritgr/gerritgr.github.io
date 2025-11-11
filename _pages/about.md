@@ -273,8 +273,8 @@ Also, I am a mentor at <span style="color:#e67e22;">✦</span> <a href="https://
       <div style="flex-grow: 1; display: flex; flex-direction: column; justify-content: space-between;">
         <p style="margin: 0;"><strong>Neural Spatiotemporal Point Processes: Trends and Challenges</strong></p>
         <p style="margin: 0;">S. Mukherjee, M. Elhamdi, G. Mohler, D. Selby, Y. Xie, S. Vollmer, G. Großmann</p>
-        <p style="margin: 0;"><i>Preprint</i>, 2025</p> 
-        <p style="margin: 0;"><a href="https://arxiv.org/pdf/2502.09341v1"><i class="fa-regular fa-file-pdf"></i>PDF</a> </p>
+        <p style="margin: 0;"><i>Transactions on Machine Learning Research (TMLR)</i>, 2025</p> 
+        <p style="margin: 0;"><a href="https://openreview.net/pdf?id=N69lSYWkMw"><i class="fa-regular fa-file-pdf"></i>PDF</a> </p>
       </div>
     </div>
      <div style="color: lightgray; align-self: flex-start; margin-left: 10px; white-space: nowrap; font-size: 200%;">2025</div> 
