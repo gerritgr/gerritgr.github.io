@@ -133,6 +133,10 @@ Also, I am a mentor at <span style="color:#e67e22;">✦</span> <a href="https://
 <div>
     <div style="display: flex; margin-bottom: 10px;">
         <div style="min-width: 120px; font-weight: bold; align-items: center;"><br>2025</div>
+        <div><em>Critical Evaluation of Biologically Informed Neural Networks: Validating Biological Pathway Representation</em><br>Tanya Amit Tyagi<br>Master's thesis</div>
+    </div>
+    <div style="display: flex; margin-bottom: 10px;">
+        <div style="min-width: 120px; font-weight: bold; align-items: center;"><br>2025</div>
         <div><em>Interpretable Reinforcement Learning for Card Games</em><br>Daniel Schmalz<br>Bachelor's thesis</div>
     </div>
     <div style="display: flex; margin-bottom: 10px;">
