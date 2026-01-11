@@ -302,6 +302,28 @@ Also, I am a mentor at <span style="color:#e67e22;">✦</span> <a href="https://
       <!--  <div style="color: lightgray; align-self: flex-start; margin-left: 10px; white-space: nowrap; font-size: 200%;">2025</div>    -->
   </div>
 
+  <!-- LLM -->
+  <div style="display: flex; justify-content: space-between; align-items: stretch; margin-bottom: 20px;">
+    <div style="display: flex; align-items: stretch;">
+      <img src="assets/img/squid.jpg" alt="squid" style="width: 100px; height: 100px; margin-right: 20px;">
+      <div style="flex-grow: 1; display: flex; flex-direction: column; justify-content: space-between;">
+        <p style="margin: 0;"><strong>Guiding Exploration in Reinforcement Learning Through LLM-Augmented Observations</strong></p>
+        <p style="margin: 0;">V. Jain, G. Großmann</p>
+        <p style="margin: 0;"><i>Preprint</i>, 2025</p> 
+      <p style="margin: 0;">
+        <a href="https://arxiv.org/abs/2510.08779" target="_blank" rel="noopener">
+          <i class="fa-regular fa-file-pdf"></i> PDF
+        </a>,
+        accepted at <i>ICAPS</i>
+        <a href="https://icaps25.icaps-conference.org/program/workshops/lm4plan/" target="_blank" rel="noopener">
+          LM4Plan Workshop
+        </a>
+      </p>
+    </div>
+  </div>
+  <!-- <div style="color: lightgray; align-self: flex-start; margin-left: 10px; white-space: nowrap; font-size: 200%;">2025</div> -->
+</div>
+
 <!-- Graph Matching -->
 <div style="display: flex; justify-content: space-between; align-items: stretch; margin-bottom: 20px;">
   <div style="display: flex; align-items: stretch;">
