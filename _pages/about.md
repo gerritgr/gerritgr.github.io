@@ -296,6 +296,10 @@ Also, I am a mentor at <span style="color:#e67e22;">✦</span> <a href="https://
         <p style="margin: 0;"><strong>SQUID: A Bayesian Approach for Physics-Informed Event Modeling</strong></p>
         <p style="margin: 0;">S. Mukherjee, S. Vollmer, G. Großmann</p>
         <p style="margin: 0;"><i>Preprint</i>, 2025</p> 
+        <p style="margin: 0;">
+          <a href="https://openreview.net/forum?id=iDS1iabzWP" target="_blank" rel="noopener">
+        <i class="fa-regular fa-file-pdf"></i> PDF
+        </a>,
         <p style="margin: 0;">Accepted at EurIPS <a href="https://differentiable-systems.github.io/workshop-eurips-2025/">Differentiable Systems and Scientific Machine Learning Workshop</a>, 2025</p>
       </div>
     </div>
