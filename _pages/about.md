@@ -305,7 +305,7 @@ Also, I am a mentor at <span style="color:#e67e22;">✦</span> <a href="https://
   <!-- LLM -->
   <div style="display: flex; justify-content: space-between; align-items: stretch; margin-bottom: 20px;">
     <div style="display: flex; align-items: stretch;">
-      <img src="assets/img/squid.jpg" alt="squid" style="width: 100px; height: 100px; margin-right: 20px;">
+      <img src="assets/img/RLLLMfig.jpg" alt="LLM" style="width: 100px; height: 100px; margin-right: 20px;">
       <div style="flex-grow: 1; display: flex; flex-direction: column; justify-content: space-between;">
         <p style="margin: 0;"><strong>Guiding Exploration in Reinforcement Learning Through LLM-Augmented Observations</strong></p>
         <p style="margin: 0;">V. Jain, G. Großmann</p>
