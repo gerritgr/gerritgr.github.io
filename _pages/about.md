@@ -127,10 +127,14 @@ Also, I am a mentor at <span style="color:#e67e22;">✦</span> <a href="https://
 
 
 <a id="students"></a>
-<br>
+<br>    
 # <i class="fa-solid fa-building-columns"></i> (Co-)Supervised Students
 
 <div>
+    <div style="display: flex; margin-bottom: 10px;">
+        <div style="min-width: 120px; font-weight: bold; align-items: center;"><br>2026</div>
+        <div><em>Towards Personalized Cancer Immunotherapy: A Deep Learning Approach for Tumor-Specific T Cell Receptor Discovery</em><br>Sara Farmahini Farahani<br>Master's thesis</div>
+    </div>
     <div style="display: flex; margin-bottom: 10px;">
         <div style="min-width: 120px; font-weight: bold; align-items: center;"><br>2026</div>
         <div><em>Leveraging LLMs for Guiding Exploration in Reinforcement Learning</em><br>Vaibhav Jain<br>Master's thesis</div>
