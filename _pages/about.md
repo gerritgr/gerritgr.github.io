@@ -116,6 +116,7 @@ Also, I am a mentor at <span style="color:#e67e22;">✦</span> <a href="https://
 <br>
 # <i class="fa-brands fa-medium"></i> Tutorials, Talks, and Opinion Pieces
 
+* Talk on *Learning Latent Structures in Complex Systems Through Rrediction* as part of the *Scientific Machine Learning Workshop* at DFKI/RPTU ([find the slides here](http://github.com/gerritgr/sciml2026)). 
 * Talk on *Generative AI for Drug Discovery: Dreaming New (Useful) Molecules* as part of the [Society of Spanish Scientists in Germany (CERFA) 2024 Symposium: “Excuse me, there is Artificial Intelligence in my Soup”](https://cerfa.de/blog/2024/09/06/symposium-2024-excuse-me-there-is-artificial-intelligence-in-my-soup/) ([find the slides here](https://github.com/gerritgr/cerfa_talk))
 * Talk and tutorial on [Language Models and Structured Knowledge in AI](https://github.com/gerritgr/LLMSummerSchool) as part of the [Inria-DFKI European Summer School](https://idessai.eu/venue-2024/) 
 * Talk on [Molecule Generation with Graph Neural Networks and Probabilistic Diffusion](https://scads.ai/education/summer-schools/summer-school-2024/dr-gerrit-grossmann/) as part of the [ScaDS.AI Summer School](https://scads.ai/education/summer-schools/summer-school-2024/) ([find the slides here](https://github.com/gerritgr/diffusion_gnn_tutorial)). 
