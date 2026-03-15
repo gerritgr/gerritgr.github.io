@@ -214,7 +214,7 @@ Also, I am a mentor at <span style="color:#e67e22;">✦</span> <a href="https://
     </div>
 </div>
 
-<div style="margin-top: 20px; font-size: 14px; color: #555;">
+<div style="margin-top: 20px; font-size: 16px; color: #555;">
     You can find my <i>How-to Thesis</i> 📘 guide <a href="https://gist.github.com/gerritgr/25f62c99dadff269966192d7ebbf005f" style="text-decoration: underline; color: inherit;">here</a>.
 </div>
 
