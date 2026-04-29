@@ -377,9 +377,9 @@ Also, I am a mentor at <span style="color:#e67e22;">✦</span> <a href="https://
     <div style="display: flex; align-items: stretch;">
       <img src="assets/img/biodisco.jpg" alt="medaka" style="width: 100px; height: 100px; margin-right: 20px;">
       <div style="flex-grow: 1; display: flex; flex-direction: column; justify-content: space-between;">
-        <p style="margin: 0;"><strong>Biodisco: Multi-Agent Hypothesis Generation With Dual-Mode Evidence, Iterative Feedback and Temporal Evaluation</strong></p>
+        <p style="margin: 0;"><strong>BioDisco: Multi-agent hypothesis generation with dual-mode evidence, iterative feedback and temporal evaluation</strong></p>
         <p style="margin: 0;">Y. Ke, K. George, K. Pandya, D. Blumenthal, M. Sprang, G. Großmann, S. Vollmer, D. Selby</p>
-        <p style="margin: 0;"><i>Preprint</i>, 2025</p> 
+        <p style="margin: 0;"> <i><a href="https://ecmlpkdd.org/2026/">ECML PKDD</a></i>, 2026</p>
         <p style="margin: 0;"><a href="https://arxiv.org/abs/2508.01285"><i class="fa-regular fa-file-pdf"></i>PDF</a> </p>
       </div>
     </div>
