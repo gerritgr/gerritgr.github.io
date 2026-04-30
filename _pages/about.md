@@ -379,7 +379,7 @@ Also, I am a mentor at <span style="color:#e67e22;">✦</span> <a href="https://
       <div style="flex-grow: 1; display: flex; flex-direction: column; justify-content: space-between;">
         <p style="margin: 0;"><strong>BioDisco: Multi-agent hypothesis generation with dual-mode evidence, iterative feedback and temporal evaluation</strong></p>
         <p style="margin: 0;">Y. Ke, K. George, K. Pandya, D. Blumenthal, M. Sprang, G. Großmann, S. Vollmer, D. Selby</p>
-        <p style="margin: 0;"> <i><a href="https://ecmlpkdd.org/2026/">ECML PKDD</a></i>, 2026</p>
+        <p style="margin: 0;"> <i><a href="https://2026.ijcai.org/">IJCAI-ECAI</a></i>, 2026</p>
         <p style="margin: 0;"><a href="https://arxiv.org/abs/2508.01285"><i class="fa-regular fa-file-pdf"></i>PDF</a> </p>
       </div>
     </div>
