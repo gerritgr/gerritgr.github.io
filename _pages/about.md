@@ -285,7 +285,7 @@ Also, I am a mentor at <span style="color:#e67e22;">✦</span> <a href="https://
   <!-- Social Balance -->
   <div style="display: flex; justify-content: space-between; align-items: stretch; margin-bottom: 20px;">
     <div style="display: flex; align-items: stretch;">
-      <img src="assets/img/biodisco.jpg" alt="Social Balance" style="width: 100px; height: 100px; margin-right: 20px;">
+      <img src="assets/img/socialbalance.jpg" alt="Social Balance" style="width: 100px; height: 100px; margin-right: 20px;">
       <div style="flex-grow: 1; display: flex; flex-direction: column; justify-content: space-between;">
         <p style="margin: 0;"><strong>Temporal Dynamics of Social Balance in Fictional Character Networks</strong></p>
         <p style="margin: 0;">L. Ivanova, G. Großmann</p>
