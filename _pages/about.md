@@ -275,14 +275,60 @@ Also, I am a mentor at <span style="color:#e67e22;">✦</span> <a href="https://
 
 </div>
 
-
 <a id="publications"></a>
 <br>
 # <i class="fa-solid fa-book"></i> Publications 
 <br>
 
-
 <div style="max-width: 100%;">
+
+  <!-- Social Balance -->
+  <div style="display: flex; justify-content: space-between; align-items: stretch; margin-bottom: 20px;">
+    <div style="display: flex; align-items: stretch;">
+      <img src="assets/img/biodisco.jpg" alt="Social Balance" style="width: 100px; height: 100px; margin-right: 20px;">
+      <div style="flex-grow: 1; display: flex; flex-direction: column; justify-content: space-between;">
+        <p style="margin: 0;"><strong>Temporal Dynamics of Social Balance in Fictional Character Networks</strong></p>
+        <p style="margin: 0;">L. Ivanova, G. Großmann</p>
+        <p style="margin: 0;">
+          Accepted at <i><a href="https://iutdijon.u-bourgogne.fr/ccs-france/">ISCS 2026</a></i>, 2026
+        </p>
+        <p style="margin: 0;">
+          Published in <i><a href="https://link.springer.com/series/13304">Studies in Systems, Decision and Control</a></i> (SSDC)
+        </p>
+      </div>
+    </div>
+    <div style="color: lightgray; align-self: flex-start; margin-left: 10px; white-space: nowrap; font-size: 200%;">2026</div>
+  </div>
+
+  <!-- BioDisco -->
+  <div style="display: flex; justify-content: space-between; align-items: stretch; margin-bottom: 20px;">
+    <div style="display: flex; align-items: stretch;">
+      <img src="assets/img/biodisco.jpg" alt="medaka" style="width: 100px; height: 100px; margin-right: 20px;">
+      <div style="flex-grow: 1; display: flex; flex-direction: column; justify-content: space-between;">
+        <p style="margin: 0;"><strong>BioDisco: Multi-agent hypothesis generation with dual-mode evidence, iterative feedback and temporal evaluation</strong></p>
+        <p style="margin: 0;">Y. Ke, K. George, K. Pandya, D. Blumenthal, M. Sprang, G. Großmann, S. Vollmer, D. Selby</p>
+        <p style="margin: 0;"> <i><a href="https://2026.ijcai.org/">IJCAI-ECAI</a></i>, 2026</p>
+        <p style="margin: 0;"><a href="https://arxiv.org/abs/2508.01285"><i class="fa-regular fa-file-pdf"></i>PDF</a> </p>
+      </div>
+    </div>
+    <!-- <div style="color: lightgray; align-self: flex-start; margin-left: 10px; white-space: nowrap; font-size: 200%;">2026</div> -->
+  </div>
+
+  <!-- chaos -->
+  <div style="display: flex; justify-content: space-between; align-items: stretch; margin-bottom: 20px;">
+    <div style="display: flex; align-items: stretch;">
+      <img src="assets/img/publication_preview/chaosbutterfly.jpg" alt="Chaos" style="width: 100px; height: 100px; margin-right: 20px;">
+      <div style="flex-grow: 1; display: flex; flex-direction: column; justify-content: space-between;">
+        <p style="margin: 0;"><strong>When Counterfactual Reasoning Fails: Chaos and Real-World Complexity</strong></p>
+        <p style="margin: 0;">Y. Aalaila, G. Großmann, S. Mukherjee, J. Wahl, S. Vollmer</p>
+        <p style="margin: 0;">
+          Accepted by <i><a href="https://www.nature.com/srep/">Scientific Reports</a></i>, 2026
+        </p>
+        <p style="margin: 0;"><a href="https://arxiv.org/pdf/2503.23820"><i class="fa-regular fa-file-pdf"></i>PDF</a> </p>
+      </div>
+    </div>
+    <!-- <div style="color: lightgray; align-self: flex-start; margin-left: 10px; white-space: nowrap; font-size: 200%;">2026</div> -->
+  </div>
 
   <!-- stpp -->
   <div style="display: flex; justify-content: space-between; align-items: stretch; margin-bottom: 20px;">
@@ -298,33 +344,30 @@ Also, I am a mentor at <span style="color:#e67e22;">✦</span> <a href="https://
      <div style="color: lightgray; align-self: flex-start; margin-left: 10px; white-space: nowrap; font-size: 200%;">2025</div> 
   </div>
 
-<!-- Squid -->
-<div style="display: flex; justify-content: space-between; align-items: stretch; margin-bottom: 20px;">
-  <div style="display: flex; align-items: stretch;">
-    <img src="assets/img/squid.jpg" alt="squid" style="width: 100px; height: 100px; margin-right: 20px;">
-    <div style="flex-grow: 1; display: flex; flex-direction: column; gap: 2px;">
-      
-      <p style="margin: 0;"><strong>SQUID: A Bayesian Approach for Physics-Informed Event Modeling</strong></p>
-      <p style="margin: 0;">S. Mukherjee, S. Vollmer, G. Großmann</p>
-      <p style="margin: 0;"><i>Preprint</i>, 2025</p>
+  <!-- Squid -->
+  <div style="display: flex; justify-content: space-between; align-items: stretch; margin-bottom: 20px;">
+    <div style="display: flex; align-items: stretch;">
+      <img src="assets/img/squid.jpg" alt="squid" style="width: 100px; height: 100px; margin-right: 20px;">
+      <div style="flex-grow: 1; display: flex; flex-direction: column; gap: 2px;">
+        <p style="margin: 0;"><strong>SQUID: A Bayesian Approach for Physics-Informed Event Modeling</strong></p>
+        <p style="margin: 0;">S. Mukherjee, S. Vollmer, G. Großmann</p>
+        <p style="margin: 0;"><i>Preprint</i>, 2025</p>
 
-      <p style="margin: 0;">
-        <a href="https://openreview.net/forum?id=iDS1iabzWP" target="_blank" rel="noopener">
-          <i class="fa-regular fa-file-pdf"></i> PDF
-        </a>
-      </p>
+        <p style="margin: 0;">
+          <a href="https://openreview.net/forum?id=iDS1iabzWP" target="_blank" rel="noopener">
+            <i class="fa-regular fa-file-pdf"></i> PDF
+          </a>
+        </p>
 
-      <p style="margin: 0;">
-        Accepted at EurIPS
-        <a href="https://differentiable-systems.github.io/workshop-eurips-2025/">
-          Differentiable Systems and Scientific Machine Learning Workshop
-        </a>, 2025
-      </p>
-
+        <p style="margin: 0;">
+          Accepted at EurIPS
+          <a href="https://differentiable-systems.github.io/workshop-eurips-2025/">
+            Differentiable Systems and Scientific Machine Learning Workshop
+          </a>, 2025
+        </p>
+      </div>
     </div>
   </div>
-</div>
-
 
   <!-- LLM -->
   <div style="display: flex; justify-content: space-between; align-items: stretch; margin-bottom: 20px;">
@@ -334,58 +377,44 @@ Also, I am a mentor at <span style="color:#e67e22;">✦</span> <a href="https://
         <p style="margin: 0;"><strong>Guiding Exploration in Reinforcement Learning Through LLM-Augmented Observations</strong></p>
         <p style="margin: 0;">V. Jain, G. Großmann</p>
         <p style="margin: 0;"><i>Preprint</i>, 2025</p> 
-      <p style="margin: 0;">
-        <a href="https://arxiv.org/abs/2510.08779" target="_blank" rel="noopener">
-          <i class="fa-regular fa-file-pdf"></i> PDF
-        </a>,
-        accepted at <i>ICAPS</i>
-        <a href="https://icaps25.icaps-conference.org/program/workshops/lm4plan/" target="_blank" rel="noopener">
-          LM4Plan Workshop
-        </a>
-      </p>
-    </div>
-  </div>
-  <!-- <div style="color: lightgray; align-self: flex-start; margin-left: 10px; white-space: nowrap; font-size: 200%;">2025</div> -->
-</div>
-
-<!-- Graph Matching -->
-<div style="display: flex; justify-content: space-between; align-items: stretch; margin-bottom: 20px;">
-  <div style="display: flex; align-items: stretch;">
-    <img src="assets/img/publication_preview/graphmatching.jpg"
-         alt="Graph Matching"
-         style="width: 100px; height: 100px; margin-right: 20px; object-fit: cover; border-radius: 4px;">
-    <div style="flex-grow: 1; display: flex; flex-direction: column; justify-content: space-between;">
-      <p style="margin: 0;"><strong>Auto-encoding Molecules: Graph-Matching Capabilities Matter</strong></p>
-      <p style="margin: 0;">M. Cunow, G. Großmann, V. Wolf, S. Vollmer</p>
-      <p style="margin: 0;"><i>Preprint</i>, 2025</p>
-      <p style="margin: 0;">
-        <a href="https://arxiv.org/pdf/2503.00426" target="_blank" rel="noopener">
-          <i class="fa-regular fa-file-pdf"></i> PDF
-        </a>,
-        accepted at <i>NeurIPS / ELLIS</i>
-        <a href="https://moleculediscovery.github.io/workshop2025/" target="_blank" rel="noopener">
-          Generative Models, LLMs, and the Future of Molecular AI [ML4Molecules 2025] Workshop
-        </a>
-      </p>
-    </div>
-  </div>
-  <!-- <div style="color: lightgray; align-self: flex-start; margin-left: 10px; white-space: nowrap; font-size: 200%;">2025</div> -->
-</div>
-
-  <!-- BioDisco -->
-  <div style="display: flex; justify-content: space-between; align-items: stretch; margin-bottom: 20px;">
-    <div style="display: flex; align-items: stretch;">
-      <img src="assets/img/biodisco.jpg" alt="medaka" style="width: 100px; height: 100px; margin-right: 20px;">
-      <div style="flex-grow: 1; display: flex; flex-direction: column; justify-content: space-between;">
-        <p style="margin: 0;"><strong>BioDisco: Multi-agent hypothesis generation with dual-mode evidence, iterative feedback and temporal evaluation</strong></p>
-        <p style="margin: 0;">Y. Ke, K. George, K. Pandya, D. Blumenthal, M. Sprang, G. Großmann, S. Vollmer, D. Selby</p>
-        <p style="margin: 0;"> <i><a href="https://2026.ijcai.org/">IJCAI-ECAI</a></i>, 2026</p>
-        <p style="margin: 0;"><a href="https://arxiv.org/abs/2508.01285"><i class="fa-regular fa-file-pdf"></i>PDF</a> </p>
+        <p style="margin: 0;">
+          <a href="https://arxiv.org/abs/2510.08779" target="_blank" rel="noopener">
+            <i class="fa-regular fa-file-pdf"></i> PDF
+          </a>,
+          accepted at <i>ICAPS</i>
+          <a href="https://icaps25.icaps-conference.org/program/workshops/lm4plan/" target="_blank" rel="noopener">
+            LM4Plan Workshop
+          </a>
+        </p>
       </div>
     </div>
-      <!--  <div style="color: lightgray; align-self: flex-start; margin-left: 10px; white-space: nowrap; font-size: 200%;">2025</div>    -->
+    <!-- <div style="color: lightgray; align-self: flex-start; margin-left: 10px; white-space: nowrap; font-size: 200%;">2025</div> -->
   </div>
-  
+
+  <!-- Graph Matching -->
+  <div style="display: flex; justify-content: space-between; align-items: stretch; margin-bottom: 20px;">
+    <div style="display: flex; align-items: stretch;">
+      <img src="assets/img/publication_preview/graphmatching.jpg"
+           alt="Graph Matching"
+           style="width: 100px; height: 100px; margin-right: 20px; object-fit: cover; border-radius: 4px;">
+      <div style="flex-grow: 1; display: flex; flex-direction: column; justify-content: space-between;">
+        <p style="margin: 0;"><strong>Auto-encoding Molecules: Graph-Matching Capabilities Matter</strong></p>
+        <p style="margin: 0;">M. Cunow, G. Großmann, V. Wolf, S. Vollmer</p>
+        <p style="margin: 0;"><i>Preprint</i>, 2025</p>
+        <p style="margin: 0;">
+          <a href="https://arxiv.org/pdf/2503.00426" target="_blank" rel="noopener">
+            <i class="fa-regular fa-file-pdf"></i> PDF
+          </a>,
+          accepted at <i>NeurIPS / ELLIS</i>
+          <a href="https://moleculediscovery.github.io/workshop2025/" target="_blank" rel="noopener">
+            Generative Models, LLMs, and the Future of Molecular AI [ML4Molecules 2025] Workshop
+          </a>
+        </p>
+      </div>
+    </div>
+    <!-- <div style="color: lightgray; align-self: flex-start; margin-left: 10px; white-space: nowrap; font-size: 200%;">2025</div> -->
+  </div>
+
   <!-- medaka -->
   <div style="display: flex; justify-content: space-between; align-items: stretch; margin-bottom: 20px;">
     <div style="display: flex; align-items: stretch;">
@@ -397,10 +426,10 @@ Also, I am a mentor at <span style="color:#e67e22;">✦</span> <a href="https://
         <p style="margin: 0;"><a href="https://arxiv.org/abs/2509.26128"><i class="fa-regular fa-file-pdf"></i>PDF</a> </p>
       </div>
     </div>
-      <!--  <div style="color: lightgray; align-self: flex-start; margin-left: 10px; white-space: nowrap; font-size: 200%;">2025</div>    -->
+    <!-- <div style="color: lightgray; align-self: flex-start; margin-left: 10px; white-space: nowrap; font-size: 200%;">2025</div> -->
   </div>
 
-    <!-- story agents -->
+  <!-- story agents -->
   <div style="display: flex; justify-content: space-between; align-items: stretch; margin-bottom: 20px;">
     <div style="display: flex; align-items: stretch;">
       <img src="assets/img/publication_preview/storyagents.jpg" alt="StoryAgents" style="width: 100px; height: 100px; margin-right: 20px;">
@@ -411,38 +440,23 @@ Also, I am a mentor at <span style="color:#e67e22;">✦</span> <a href="https://
         <p style="margin: 0;"><a href="https://arxiv.org/pdf/2505.03961"><i class="fa-regular fa-file-pdf"></i>PDF</a> </p>
       </div>
     </div>
-    <!-- <div style="color: lightgray; align-self: flex-start; margin-left: 10px; white-space: nowrap; font-size: 200%;">2025</div>   -->
+    <!-- <div style="color: lightgray; align-self: flex-start; margin-left: 10px; white-space: nowrap; font-size: 200%;">2025</div> -->
   </div>
 
-    <!-- clam -->
-<div style="display: flex; justify-content: space-between; align-items: stretch; margin-bottom: 20px;">
-  <div style="display: flex; align-items: stretch;">
-    <img src="assets/img/clam.jpg" alt="Clam" style="width: 100px; height: 100px; margin-right: 20px;">
-    <div style="flex-grow: 1; display: flex; flex-direction: column; justify-content: space-between;">
-      <p style="margin: 0;"><strong>CLAM: Causal Spatial Disaggregation to Infer Local Effects From Coarse Data</strong></p>
-      <p style="margin: 0;">G. Großmann, S. Mukherjee, S. Vollmer</p>
-      <p style="margin: 0;">Accepted at NeurIPS <a href="https://sites.google.com/view/causcien">CauScien: Uncovering Causality in Science Workshop</a>, 2025</p>
-      <p style="margin: 0;"><a href="https://github.com/spacetimecausality/spacetimecausality.github.io/blob/main/assets/pdf/CLAM.pdf"><i class="fa-regular fa-file-pdf"></i> PDF</a></p>
-    </div>
-  </div>
-  <!-- <div style="color: lightgray; align-self: flex-start; margin-left: 10px; white-space: nowrap; font-size: 200%;">2025</div>   -->
-</div>
-
-  
-
-    <!-- chaos -->
+  <!-- clam -->
   <div style="display: flex; justify-content: space-between; align-items: stretch; margin-bottom: 20px;">
     <div style="display: flex; align-items: stretch;">
-      <img src="assets/img/publication_preview/chaosbutterfly.jpg" alt="Chaos" style="width: 100px; height: 100px; margin-right: 20px;">
+      <img src="assets/img/clam.jpg" alt="Clam" style="width: 100px; height: 100px; margin-right: 20px;">
       <div style="flex-grow: 1; display: flex; flex-direction: column; justify-content: space-between;">
-        <p style="margin: 0;"><strong>When Counterfactual Reasoning Fails: Chaos and Real-World Complexity</strong></p>
-        <p style="margin: 0;">Y. Aalaila, G. Großmann, S. Mukherjee, J. Wahl, S. Vollmer</p>
-        <p style="margin: 0;"><i>Preprint</i>, 2025</p> 
-        <p style="margin: 0;"><a href="https://arxiv.org/pdf/2503.23820"><i class="fa-regular fa-file-pdf"></i>PDF</a> </p>
+        <p style="margin: 0;"><strong>CLAM: Causal Spatial Disaggregation to Infer Local Effects From Coarse Data</strong></p>
+        <p style="margin: 0;">G. Großmann, S. Mukherjee, S. Vollmer</p>
+        <p style="margin: 0;">Accepted at NeurIPS <a href="https://sites.google.com/view/causcien">CauScien: Uncovering Causality in Science Workshop</a>, 2025</p>
+        <p style="margin: 0;"><a href="https://github.com/spacetimecausality/spacetimecausality.github.io/blob/main/assets/pdf/CLAM.pdf"><i class="fa-regular fa-file-pdf"></i> PDF</a></p>
       </div>
     </div>
-    <!-- <div style="color: lightgray; align-self: flex-start; margin-left: 10px; white-space: nowrap; font-size: 200%;">2025</div>   -->
+    <!-- <div style="color: lightgray; align-self: flex-start; margin-left: 10px; white-space: nowrap; font-size: 200%;">2025</div> -->
   </div>
+</div>
 
   <!-- learn2clean -->
   <div style="display: flex; justify-content: space-between; align-items: stretch; margin-bottom: 20px;">
