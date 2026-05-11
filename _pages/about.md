@@ -330,6 +330,20 @@ Also, I am a mentor at <span style="color:#e67e22;">✦</span> <a href="https://
     <!-- <div style="color: lightgray; align-self: flex-start; margin-left: 10px; white-space: nowrap; font-size: 200%;">2026</div> -->
   </div>
 
+  <!-- Pirate -->
+  <div style="display: flex; justify-content: space-between; align-items: stretch; margin-bottom: 20px;">
+    <div style="display: flex; align-items: stretch;">
+      <img src="assets/img/publication_preview/pirate.jpg" alt="Dis preview" style="width: 100px; height: 100px; margin-right: 20px;">
+      <div style="flex-grow: 1; display: flex; flex-direction: column; justify-content: space-between;">
+        <p style="margin: 0;"><strong>GRIP: Physics-Informed Neural Network for Gradient Retention Time Prediction in Liquid Chromatography</strong></p>
+        <p style="margin: 0;">K. George, F.P. J. Haeckl, G. Großmann, A. Gurevich, A. Tagirdzhanov</p>
+        <p style="margin: 0;">Helmholtz AI Conference 2026 [(HAICON269](https://haicon.cc/))</p> 
+        <p style="margin: 0;"><a href="https://biorxiv.org/content/10.1101/2024.11.11.622855v1"><i class="fa-regular fa-file-pdf"></i>PDF</a> </p>
+      </div>
+    </div>
+    <!-- <div style="color: lightgray; align-self: flex-start; margin-left: 10px; white-space: nowrap; font-size: 200%;">2022</div>  -->
+  </div>
+
   <!-- stpp -->
   <div style="display: flex; justify-content: space-between; align-items: stretch; margin-bottom: 20px;">
     <div style="display: flex; align-items: stretch;">
@@ -454,9 +468,8 @@ Also, I am a mentor at <span style="color:#e67e22;">✦</span> <a href="https://
         <p style="margin: 0;"><a href="https://github.com/spacetimecausality/spacetimecausality.github.io/blob/main/assets/pdf/CLAM.pdf"><i class="fa-regular fa-file-pdf"></i> PDF</a></p>
       </div>
     </div>
-    <!-- <div style="color: lightgray; align-self: flex-start; margin-left: 10px; white-space: nowrap; font-size: 200%;">2025</div> -->
   </div>
-</div>
+  
 
   <!-- learn2clean -->
   <div style="display: flex; justify-content: space-between; align-items: stretch; margin-bottom: 20px;">
@@ -509,20 +522,6 @@ Also, I am a mentor at <span style="color:#e67e22;">✦</span> <a href="https://
         <p style="margin: 0;">P. Pombala, G. Grossmann, V. Wolf</p>
         <p style="margin: 0;">Preprint, 2024</p> 
         <p style="margin: 0;"><a href="https://arxiv/abs/2501.03696"><i class="fa-regular fa-file-pdf"></i>PDF</a> </p>
-      </div>
-    </div>
-    <!-- <div style="color: lightgray; align-self: flex-start; margin-left: 10px; white-space: nowrap; font-size: 200%;">2022</div>  -->
-  </div>
-
-  <!-- Pirate -->
-  <div style="display: flex; justify-content: space-between; align-items: stretch; margin-bottom: 20px;">
-    <div style="display: flex; align-items: stretch;">
-      <img src="assets/img/publication_preview/pirate.jpg" alt="Dis preview" style="width: 100px; height: 100px; margin-right: 20px;">
-      <div style="flex-grow: 1; display: flex; flex-direction: column; justify-content: space-between;">
-        <p style="margin: 0;"><strong>GRIP: Physics-Informed Neural Network for Gradient Retention Time Prediction in Liquid Chromatography</strong></p>
-        <p style="margin: 0;">K. George, F.P. J. Haeckl, G. Großmann, A. Gurevich, A. Tagirdzhanov</p>
-        <p style="margin: 0;">Preprint, 2024</p> 
-        <p style="margin: 0;"><a href="https://biorxiv.org/content/10.1101/2024.11.11.622855v1"><i class="fa-regular fa-file-pdf"></i>PDF</a> </p>
       </div>
     </div>
     <!-- <div style="color: lightgray; align-self: flex-start; margin-left: 10px; white-space: nowrap; font-size: 200%;">2022</div>  -->
