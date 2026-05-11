@@ -337,7 +337,7 @@ Also, I am a mentor at <span style="color:#e67e22;">✦</span> <a href="https://
       <div style="flex-grow: 1; display: flex; flex-direction: column; justify-content: space-between;">
         <p style="margin: 0;"><strong>GRIP: Physics-Informed Neural Network for Gradient Retention Time Prediction in Liquid Chromatography</strong></p>
         <p style="margin: 0;">K. George, F.P. J. Haeckl, G. Großmann, A. Gurevich, A. Tagirdzhanov</p>
-        <p style="margin: 0;"> Helmholtz AI Conference 2026 (<a href="https://haicon.cc/">HAICON269</a>) </p>
+        <p style="margin: 0;"> Helmholtz AI Conference 2026 (<a href="https://haicon.cc/">HAICON26</a>) </p>
         <p style="margin: 0;"><a href="https://biorxiv.org/content/10.1101/2024.11.11.622855v1"><i class="fa-regular fa-file-pdf"></i>PDF</a> </p>
       </div>
     </div>
