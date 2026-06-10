@@ -320,10 +320,10 @@ Also, I am a mentor at <span style="color:#e67e22;">✦</span> <a href="https://
     <div style="display: flex; align-items: stretch;">
       <img src="assets/img/publication_preview/chaosbutterfly.jpg" alt="Chaos" style="width: 100px; height: 100px; margin-right: 20px;">
       <div style="flex-grow: 1; display: flex; flex-direction: column; justify-content: space-between;">
-        <p style="margin: 0;"><strong>When Counterfactual Reasoning Fails: Chaos and Real-World Complexity</strong></p>
+        <p style="margin: 0;"><strong>Chaotic and complex dynamics expose the limits of counterfactual reasoning</strong></p>
         <p style="margin: 0;">Y. Aalaila, G. Großmann, S. Mukherjee, J. Wahl, S. Vollmer</p>
         <p style="margin: 0;">
-          Accepted by <i><a href="https://www.nature.com/srep/">Scientific Reports</a></i>, 2026
+          Accepted by <i><a href="https://www.nature.com/articles/s41598-026-52349-2">Nature Scientific Reports</a></i>, 2026
         </p>
         <p style="margin: 0;"><a href="https://arxiv.org/pdf/2503.23820"><i class="fa-regular fa-file-pdf"></i>PDF</a> </p>
       </div>
