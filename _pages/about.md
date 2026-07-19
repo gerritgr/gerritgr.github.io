@@ -318,11 +318,11 @@ Also, I am a mentor at <span style="color:#e67e22;">✦</span> <a href="https://
   <!-- Dolphin -->
   <div style="display: flex; justify-content: space-between; align-items: stretch; margin-bottom: 20px;">
     <div style="display: flex; align-items: stretch;">
-      <img src="assets/img/publication_preview/dolphin.jpg" alt="sure" style="width: 100px; height: 100px; margin-right: 20px;">
+      <img src="assets/img/publication_preview/dolphin.jpg" alt="dolphin" style="width: 100px; height: 100px; margin-right: 20px;">
       <div style="flex-grow: 1; display: flex; flex-direction: column; justify-content: space-between;">
         <p style="margin: 0;"><strong>Dolphin: Interpretable Discovery of Exceptional Subgroups in Longitudinal Data</strong></p>
         <p style="margin: 0;"> C. Joshi, D. Selby, A. Patnaik, S. Vollmer, G. Großmann</p>
-        <p style="margin: 0;"> <i><a href="https://sure-wshop.github.io/accepted-papers/">Workshop on New Frontiers in Mining Complex Pattern</a></i>, 2026</p>
+        <p style="margin: 0;"> <i><a href="https://nfmcpworkshop.github.io/">Workshop on New Frontiers in Mining Complex Pattern</a></i>, 2026</p>
         <!-- <p style="margin: 0;"><a href="https://arxiv.org/abs/2508.01285"><i class="fa-regular fa-file-pdf"></i>PDF</a> </p>  -->
       </div>
     </div>
