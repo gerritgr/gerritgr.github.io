@@ -315,6 +315,20 @@ Also, I am a mentor at <span style="color:#e67e22;">✦</span> <a href="https://
     <!-- <div style="color: lightgray; align-self: flex-start; margin-left: 10px; white-space: nowrap; font-size: 200%;">2026</div> -->
   </div>
 
+  <!-- Sure -->
+  <div style="display: flex; justify-content: space-between; align-items: stretch; margin-bottom: 20px;">
+    <div style="display: flex; align-items: stretch;">
+      <img src="assets/img/publication_preview/sure.jpg" alt="sure" style="width: 100px; height: 100px; margin-right: 20px;">
+      <div style="flex-grow: 1; display: flex; flex-direction: column; justify-content: space-between;">
+        <p style="margin: 0;"><strong>Accounting for Bias Enables Sustainable LLM Evaluation</strong></p>
+        <p style="margin: 0;">H. Katoch, D. Selby, G. Großmann, S. Vollmer</p>
+        <p style="margin: 0;"> <i><a href="https://sure-wshop.github.io/accepted-papers/">SuRe Workshop</a></i>, 2026</p>
+        <!-- <p style="margin: 0;"><a href="https://arxiv.org/abs/2508.01285"><i class="fa-regular fa-file-pdf"></i>PDF</a> </p>  -->
+      </div>
+    </div>
+    <!-- <div style="color: lightgray; align-self: flex-start; margin-left: 10px; white-space: nowrap; font-size: 200%;">2026</div> -->
+  </div>
+
   <!-- chaos -->
   <div style="display: flex; justify-content: space-between; align-items: stretch; margin-bottom: 20px;">
     <div style="display: flex; align-items: stretch;">
