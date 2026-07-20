@@ -26,7 +26,7 @@ social: false  # includes social icons at the bottom of the page
 
 
 Hello World! My name is Gerrit Großmann, welcome to my personal academic webpage!
-I work at the research department on [Data Science and its Applications (DSA)](https://dsa.dfki.de) (formerly [Neuro-mechanistic Modeling](https://www.dfki.de/nmm)) at the  <a href='https://www.dfki.de/web'>German Research Center for Artificial Intelligence (DFKI)</a>.
+I work at the research department on [Data Science and its Applications (DSA)](https://dsa.dfki.de) (formerly [Neuro-mechanistic Modeling](https://www.dfki.de/nmm)) at the  <a href='https://www.dfki.de/web'>German Research Center for Artificial Intelligence (DFKI)</a>.
 I am also a member of the [Machine Learning & Global Health Network (MLGH)](https://mlgh.net/).
 
 **Research Interests:** <br>
@@ -230,7 +230,7 @@ Also, I am a mentor at <span style="color:#e67e22;">✦</span> <a href="https://
 # <i class="fa-solid fa-user-graduate"></i> Theses  
 <br>
 
-<div style="max-width: 100%;">
+<div id="theses-list" style="max-width: 100%;">
 
   <!-- Publication 1 -->
   <div style="display: flex; justify-content: space-between; align-items: stretch; margin-bottom: 20px;">
@@ -274,7 +274,64 @@ Also, I am a mentor at <span style="color:#e67e22;">✦</span> <a href="https://
     <div style="color: lightgray; align-self: flex-start; margin-left: 10px; white-space: nowrap; font-size: 200%;">2015</div> <!-- Increased font size -->
   </div>
 
+
 </div>
+
+<style>
+  #theses-toggle {
+    display: block;
+    margin: 0.25rem auto 1.5rem;
+    padding: 0.25rem 0;
+    border: 0;
+    border-bottom: 1px solid transparent;
+    background: transparent;
+    color: var(--global-theme-color, #2798ba);
+    font: inherit;
+    cursor: pointer;
+  }
+
+  #theses-toggle:hover,
+  #theses-toggle:focus-visible {
+    border-bottom-color: currentColor;
+  }
+</style>
+
+<script>
+  document.addEventListener('DOMContentLoaded', function () {
+    const list = document.getElementById('theses-list');
+    if (!list) return;
+
+    const entries = Array.from(list.children).filter(function (element) {
+      return element.tagName === 'DIV';
+    });
+    const cutoff = 10;
+
+    if (entries.length <= cutoff) return;
+
+    let expanded = false;
+    const button = document.createElement('button');
+    button.id = 'theses-toggle';
+    button.type = 'button';
+    button.setAttribute('aria-controls', 'theses-list');
+
+    function updateList() {
+      entries.slice(cutoff).forEach(function (entry) {
+        entry.hidden = !expanded;
+      });
+
+      button.textContent = expanded ? 'Less' : 'More';
+      button.setAttribute('aria-expanded', String(expanded));
+    }
+
+    button.addEventListener('click', function () {
+      expanded = !expanded;
+      updateList();
+    });
+
+    list.insertAdjacentElement('afterend', button);
+    updateList();
+  });
+</script>
 
 <a id="publications"></a>
 <br>
@@ -852,5 +909,3 @@ Also, I am a mentor at <span style="color:#e67e22;">✦</span> <a href="https://
   </div>  
 
 </div>
-
-
