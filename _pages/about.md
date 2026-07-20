@@ -47,7 +47,8 @@ Also, I am a mentor at <span style="color:#e67e22;">✦</span> <a href="https://
 - <i class="fa-brands fa-medium"></i> [Opinion Pieces and Tutorials](#blog) 
 - <i class="fa-solid fa-building-columns"></i> [Co-Supervised Students](#students) 
 - <i class="fa-solid fa-user-graduate"></i> [Theses](#theses)   
-- <i class="fa-solid fa-book"></i> [Publications](#publications)  
+- <i class="fa-solid fa-book"></i> [Publications (Selected)](#publications-selected)  
+- <i class="fa-solid fa-book"></i> [Publications (All)](#publications-all)  
 
 <br>
 <a id="short-cv"></a>
@@ -333,8 +334,119 @@ Also, I am a mentor at <span style="color:#e67e22;">✦</span> <a href="https://
 </div>
 
 <a id="publications"></a>
+<a id="publications-selected"></a>
 <br>
-# <i class="fa-solid fa-book"></i> Publications 
+# <i class="fa-solid fa-book"></i> Publications (Selected)
+<br>
+
+<div style="max-width: 100%;">
+
+  <!-- BioDisco -->
+  <div style="display: flex; justify-content: space-between; align-items: stretch; margin-bottom: 20px;">
+    <div style="display: flex; align-items: stretch;">
+      <img src="assets/img/biodisco.jpg" alt="medaka" style="width: 100px; height: 100px; margin-right: 20px;">
+      <div style="flex-grow: 1; display: flex; flex-direction: column; justify-content: space-between;">
+        <p style="margin: 0;"><strong>BioDisco: Multi-agent hypothesis generation with dual-mode evidence, iterative feedback and temporal evaluation</strong></p>
+        <p style="margin: 0;">Y. Ke, K. George, K. Pandya, D. Blumenthal, M. Sprang, G. Großmann, S. Vollmer, D. Selby</p>
+        <p style="margin: 0;"> <i><a href="https://2026.ijcai.org/">IJCAI-ECAI</a></i>, 2026</p>
+        <p style="margin: 0;"><a href="https://arxiv.org/abs/2508.01285"><i class="fa-regular fa-file-pdf"></i>PDF</a> </p>
+      </div>
+    </div>
+    <!-- <div style="color: lightgray; align-self: flex-start; margin-left: 10px; white-space: nowrap; font-size: 200%;">2026</div> -->
+  </div>
+
+  <!-- chaos -->
+  <div style="display: flex; justify-content: space-between; align-items: stretch; margin-bottom: 20px;">
+    <div style="display: flex; align-items: stretch;">
+      <img src="assets/img/publication_preview/chaosbutterfly.jpg" alt="Chaos" style="width: 100px; height: 100px; margin-right: 20px;">
+      <div style="flex-grow: 1; display: flex; flex-direction: column; justify-content: space-between;">
+        <p style="margin: 0;"><strong>Chaotic and complex dynamics expose the limits of counterfactual reasoning</strong></p>
+        <p style="margin: 0;">Y. Aalaila, G. Großmann, S. Mukherjee, J. Wahl, S. Vollmer</p>
+        <p style="margin: 0;">
+          Accepted by <i><a href="https://www.nature.com/articles/s41598-026-52349-2">Nature Scientific Reports</a></i>, 2026
+        </p>
+        <p style="margin: 0;"><a href="https://arxiv.org/pdf/2503.23820"><i class="fa-regular fa-file-pdf"></i>PDF</a> </p>
+      </div>
+    </div>
+    <!-- <div style="color: lightgray; align-self: flex-start; margin-left: 10px; white-space: nowrap; font-size: 200%;">2026</div> -->
+  </div>
+
+  <!-- stpp -->
+  <div style="display: flex; justify-content: space-between; align-items: stretch; margin-bottom: 20px;">
+    <div style="display: flex; align-items: stretch;">
+      <img src="assets/img/publication_preview/stppreview.jpg" alt="Cleansurvival" style="width: 100px; height: 100px; margin-right: 20px;">
+      <div style="flex-grow: 1; display: flex; flex-direction: column; justify-content: space-between;">
+        <p style="margin: 0;"><strong>Neural Spatiotemporal Point Processes: Trends and Challenges</strong></p>
+        <p style="margin: 0;">S. Mukherjee, M. Elhamdi, G. Mohler, D. Selby, Y. Xie, S. Vollmer, G. Großmann</p>
+        <p style="margin: 0;"><i>Transactions on Machine Learning Research (TMLR)</i>, 2025</p> 
+        <p style="margin: 0;"><a href="https://openreview.net/pdf?id=N69lSYWkMw"><i class="fa-regular fa-file-pdf"></i>PDF</a> </p>
+      </div>
+    </div>
+     <div style="color: lightgray; align-self: flex-start; margin-left: 10px; white-space: nowrap; font-size: 200%;">2025</div> 
+  </div>
+
+  <!-- story agents -->
+  <div style="display: flex; justify-content: space-between; align-items: stretch; margin-bottom: 20px;">
+    <div style="display: flex; align-items: stretch;">
+      <img src="assets/img/publication_preview/storyagents.jpg" alt="StoryAgents" style="width: 100px; height: 100px; margin-right: 20px;">
+      <div style="flex-grow: 1; display: flex; flex-direction: column; justify-content: space-between;">
+        <p style="margin: 0;"><strong>The Power of Stories: Narrative Priming Shapes How LLM Agents Collaborate and Compete</strong></p>
+        <p style="margin: 0;">G. Großmann, L. Ivanova, S. L. Poduru, M. Tabrizian, I. Mesabah, D. Selby, S. Vollmer</p>
+        <p style="margin: 0;"> <i><a href="https://netgcoop2025.univ-avignon.fr/">NETGCOOP 2025</a></i>, 2025 </p>
+        <p style="margin: 0;"><a href="https://arxiv.org/pdf/2505.03961"><i class="fa-regular fa-file-pdf"></i>PDF</a> </p>
+      </div>
+    </div>
+    <!-- <div style="color: lightgray; align-self: flex-start; margin-left: 10px; white-space: nowrap; font-size: 200%;">2025</div> -->
+  </div>
+
+  <!-- BioNN -->
+  <div style="display: flex; justify-content: space-between; align-items: stretch; margin-bottom: 20px;">
+    <div style="display: flex; align-items: stretch;">
+      <img src="assets/img/publication_preview/bioNN.jpg" alt="Dis preview" style="width: 100px; height: 100px; margin-right: 20px;">
+      <div style="flex-grow: 1; display: flex; flex-direction: column; justify-content: space-between;">
+        <p style="margin: 0;"><strong>Visible Neural Networks for Multi-Omics Integration: A Critical Review</strong></p>
+        <p style="margin: 0;">D. A. Selby, R. Jakhmola, M. Sprang, G. Großmann, H. Raki, N. Maani, D. Pavliuk, J. Ewald, S. Vollmer</p>
+        <p style="margin: 0;">Frontiers in Artificial Intelligence, 2024</p> 
+        <p style="margin: 0;"><a href="https://www.frontiersin.org/journals/artificial-intelligence/articles/10.3389/frai.2025.1595291/full"><i class="fa-regular fa-file-pdf"></i>PDF</a> </p>
+      </div>
+    </div>
+    <!-- <div style="color: lightgray; align-self: flex-start; margin-left: 10px; white-space: nowrap; font-size: 200%;">2022</div>  https://biorxiv.org/content/10.1101/2024.12.09.627465v1   -->
+  </div>
+
+  <!-- Gina -->
+  <div style="display: flex; justify-content: space-between; align-items: stretch; margin-bottom: 20px;">
+    <div style="display: flex; align-items: stretch;">
+      <img src="assets/img/publication_preview/gina.jpg" alt="Dis preview" style="width: 100px; height: 100px; margin-right: 20px;">
+      <div style="flex-grow: 1; display: flex; flex-direction: column; justify-content: space-between;">
+        <p style="margin: 0;"><strong>Unsupervised Relational Inference Using Masked Reconstruction </strong></p>
+        <p style="margin: 0;">G. Großmann, J. Zimmerlin, M. Backenköhler, V. Wolf</p>
+        <p style="margin: 0;">Applied Network Science, 2023</p> 
+        <p style="margin: 0;"><a href="https://appliednetsci.springeropen.com/articles/10.1007/s41109-023-00542-x"><i class="fa-regular fa-file-pdf"></i>PDF</a>   &nbsp; &nbsp;   <a href="https://github.com/gerritgr/gina"><i class="fab fa-github"></i>GitHub</a> </p>
+      </div>
+    </div>
+    <!-- <div style="color: lightgray; align-self: flex-start; margin-left: 10px; white-space: nowrap; font-size: 200%;">2022</div>  -->
+  </div>
+
+  <!-- Hetero -->
+  <div style="display: flex; justify-content: space-between; align-items: stretch; margin-bottom: 20px;">
+    <div style="display: flex; align-items: stretch;">
+      <img src="assets/img/publication_preview/heterogeneity.jpg" alt="Dis preview" style="width: 100px; height: 100px; margin-right: 20px;">
+      <div style="flex-grow: 1; display: flex; flex-direction: column; justify-content: space-between;">
+        <p style="margin: 0;"><strong>Heterogeneity Matters: Contact Structure and Individual Variation Shape Epidemic Dynamics</strong></p>
+        <p style="margin: 0;">G. Großmann, M. Backenköhler, V. Wolf</p>
+        <p style="margin: 0;"><i>PLOS ONE</i>, 2021</p> 
+        <p style="margin: 0;"><a href="https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0250050"><i class="fa-regular fa-file-pdf"></i>PDF</a>   
+        &nbsp; &nbsp;   <a href="www.github.com/gerritgr/Covid19Dispersion"><i class="fab fa-github"></i>GitHub </a></p>
+      </div>
+    </div>
+     <!--  <div style="color: lightgray; align-self: flex-start; margin-left: 10px; white-space: nowrap; font-size: 200%;">2021</div> -->
+  </div>
+
+</div>
+
+<a id="publications-all"></a>
+<br>
+# <i class="fa-solid fa-book"></i> Publications (All)
 <br>
 
 <div style="max-width: 100%;">
