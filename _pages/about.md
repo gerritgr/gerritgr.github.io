@@ -251,7 +251,7 @@ Also, I am a mentor at <span style="color:#e67e22;">✦</span> <a href="https://
     const entries = Array.from(list.children).filter(function (element) {
       return element.tagName === 'DIV';
     });
-    const cutoff = 10;
+    const cutoff = 6;
 
     if (entries.length <= cutoff) return;
 
@@ -266,7 +266,7 @@ Also, I am a mentor at <span style="color:#e67e22;">✦</span> <a href="https://
         entry.hidden = !expanded;
       });
 
-      button.textContent = expanded ? 'Less' : 'More';
+      button.textContent = expanded ? '↑ Show Less ↑' : '↓ Show More ↓';
       button.setAttribute('aria-expanded', String(expanded));
     }
 
