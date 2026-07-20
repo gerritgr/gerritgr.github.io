@@ -133,7 +133,7 @@ Also, I am a mentor at <span style="color:#e67e22;">✦</span> <a href="https://
 
 
 
-<div>
+<div id="students-list">
     <div style="display: flex; margin-bottom: 10px;">
         <div style="min-width: 120px; font-weight: bold; align-items: center;"><br>2026</div>
         <div><em>Temporal Dynamics of Social Balance in Fictional Character Networks</em><br>Larisa Ivanova<br>Master's thesis</div>
@@ -224,13 +224,69 @@ Also, I am a mentor at <span style="color:#e67e22;">✦</span> <a href="https://
     You can find my <i>How-to Thesis</i> 📘 guide <a href="https://gist.github.com/gerritgr/25f62c99dadff269966192d7ebbf005f" style="text-decoration: underline; color: inherit;">here</a>.
 </div>
 
+<style>
+  #students-toggle {
+    display: block;
+    margin: 0.25rem auto 1.5rem;
+    padding: 0.25rem 0;
+    border: 0;
+    border-bottom: 1px solid transparent;
+    background: transparent;
+    color: var(--global-theme-color, #2798ba);
+    font: inherit;
+    cursor: pointer;
+  }
+
+  #students-toggle:hover,
+  #students-toggle:focus-visible {
+    border-bottom-color: currentColor;
+  }
+</style>
+
+<script>
+  document.addEventListener('DOMContentLoaded', function () {
+    const list = document.getElementById('students-list');
+    if (!list) return;
+
+    const entries = Array.from(list.children).filter(function (element) {
+      return element.tagName === 'DIV';
+    });
+    const cutoff = 10;
+
+    if (entries.length <= cutoff) return;
+
+    let expanded = false;
+    const button = document.createElement('button');
+    button.id = 'students-toggle';
+    button.type = 'button';
+    button.setAttribute('aria-controls', 'students-list');
+
+    function updateList() {
+      entries.slice(cutoff).forEach(function (entry) {
+        entry.hidden = !expanded;
+      });
+
+      button.textContent = expanded ? 'Less' : 'More';
+      button.setAttribute('aria-expanded', String(expanded));
+    }
+
+    button.addEventListener('click', function () {
+      expanded = !expanded;
+      updateList();
+    });
+
+    list.insertAdjacentElement('afterend', button);
+    updateList();
+  });
+</script>
+
 
 <a id="theses"></a>
 <br>
 # <i class="fa-solid fa-user-graduate"></i> Theses  
 <br>
 
-<div id="theses-list" style="max-width: 100%;">
+<div style="max-width: 100%;">
 
   <!-- Publication 1 -->
   <div style="display: flex; justify-content: space-between; align-items: stretch; margin-bottom: 20px;">
@@ -274,64 +330,7 @@ Also, I am a mentor at <span style="color:#e67e22;">✦</span> <a href="https://
     <div style="color: lightgray; align-self: flex-start; margin-left: 10px; white-space: nowrap; font-size: 200%;">2015</div> <!-- Increased font size -->
   </div>
 
-
 </div>
-
-<style>
-  #theses-toggle {
-    display: block;
-    margin: 0.25rem auto 1.5rem;
-    padding: 0.25rem 0;
-    border: 0;
-    border-bottom: 1px solid transparent;
-    background: transparent;
-    color: var(--global-theme-color, #2798ba);
-    font: inherit;
-    cursor: pointer;
-  }
-
-  #theses-toggle:hover,
-  #theses-toggle:focus-visible {
-    border-bottom-color: currentColor;
-  }
-</style>
-
-<script>
-  document.addEventListener('DOMContentLoaded', function () {
-    const list = document.getElementById('theses-list');
-    if (!list) return;
-
-    const entries = Array.from(list.children).filter(function (element) {
-      return element.tagName === 'DIV';
-    });
-    const cutoff = 10;
-
-    if (entries.length <= cutoff) return;
-
-    let expanded = false;
-    const button = document.createElement('button');
-    button.id = 'theses-toggle';
-    button.type = 'button';
-    button.setAttribute('aria-controls', 'theses-list');
-
-    function updateList() {
-      entries.slice(cutoff).forEach(function (entry) {
-        entry.hidden = !expanded;
-      });
-
-      button.textContent = expanded ? 'Less' : 'More';
-      button.setAttribute('aria-expanded', String(expanded));
-    }
-
-    button.addEventListener('click', function () {
-      expanded = !expanded;
-      updateList();
-    });
-
-    list.insertAdjacentElement('afterend', button);
-    updateList();
-  });
-</script>
 
 <a id="publications"></a>
 <br>
