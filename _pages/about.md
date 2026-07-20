@@ -66,7 +66,7 @@ Also, I am a mentor at <span style="color:#e67e22;">✦</span> <a href="https://
     </div>
     <div style="display: flex; margin-bottom: 5px;">
         <div style="min-width: 120px; font-weight: bold;">2010 - 2018</div>
-        <div>Bachelor's and Master's degree in computer science at <em>Saarland University</em></div>
+        <div>Bachelor's and Master's degrees in computer science at <em>Saarland University</em></div>
     </div>
     <div style="display: flex; margin-bottom: 5px;">
         <div style="min-width: 120px; font-weight: bold;">2017 <span style="color: transparent;">- 0000</span></div>
@@ -78,19 +78,25 @@ Also, I am a mentor at <span style="color:#e67e22;">✦</span> <a href="https://
     </div>
     <div style="display: flex; margin-bottom: 5px;">
         <div style="min-width: 120px; font-weight: bold;">2019 - 2022</div>
-        <div>PhD (Dr. rer. nat) in computer science at the <em>Modeling and Simulation</em> group at <em>Saarland University</em></div>
+        <div>PhD (Dr. rer. nat.) in computer science at the <em>Modeling and Simulation</em> group at <em>Saarland University</em></div>
     </div>
     <div style="display: flex; margin-bottom: 5px;">
-        <div style="min-width: 120px; font-weight: bold;">2023 - present</div>
+        <div style="min-width: 120px; font-weight: bold;">2023 - 2026</div>
         <div>
-            Team Lead for <em>Spatio-temporal Modeling and Forecasting</em> at the <em>Data Science and its Applications</em> group 
-            and Senior Researcher at <em>DFKI</em>
+            Senior Researcher in the <em>Neuro-mechanistic Modeling</em> research department;
+            Team Lead for <em>Spatio-temporal Modeling and Forecasting</em> in the
+            <em>Data Science and its Applications</em> group at <em>DFKI</em>
+        </div>
+    </div>
+    <div style="display: flex; margin-bottom: 5px;">
+        <div style="min-width: 120px; font-weight: bold;">2026 - present</div>
+        <div>
+            Postdoctoral Researcher at <em>CISPA – Helmholtz Center for Information Security</em>
+            in the <em>Relational Machine Learning Lab</em>, in collaboration with the
+            <em>HIPS – Helmholtz Institute for Pharmaceutical Research Saarland</em>
         </div>
     </div>
 </div>
-
-
-
 
 
 <a id="teaching"></a>
