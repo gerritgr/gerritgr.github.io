@@ -450,6 +450,7 @@ Also, I am a mentor at <span style="color:#e67e22;">✦</span> <a href="https://
 
 </div>
 
+
 <a id="publications-all"></a>
 <br>
 # <i class="fa-solid fa-book"></i> Publications (All)
@@ -474,6 +475,53 @@ Also, I am a mentor at <span style="color:#e67e22;">✦</span> <a href="https://
     </div>
     <div style="color: lightgray; align-self: flex-start; margin-left: 10px; white-space: nowrap; font-size: 200%;">2026</div>
   </div>
+
+
+  <!-- Event History -->
+
+  <div style="display: flex; justify-content: space-between; align-items: stretch; margin-bottom: 20px;">
+    <div style="display: flex; align-items: stretch;">
+      <img src="assets/img/publication_preview/eventhistory.jpg" alt="event history" style="width: 100px; height: 100px; margin-right: 20px;">
+      <div style="flex-grow: 1; display: flex; flex-direction: column; justify-content: space-between;">
+        <p style="margin: 0;"><strong>When Context Compensates for Sparse Event History: AlphaEarth for Spatio-Temporal Point-Process Forecasting</strong></p>
+        <p style="margin: 0;">Y. Aalaila, M. Elhamdi, G. Großmann, D. Jenson, E. Semenova, S. Vollmer</p>
+        <p style="margin: 0;"> <i><a href="https://strl-workshop.github.io/strl2026/">5th International Workshop on Spatio-Temporal Reasoning and Learning</a></i>, 2026</p>
+        <p style="margin: 0;"><a href="https://arxiv.org/abs/2607.01082"><i class="fa-regular fa-file-pdf"></i>PDF</a> </p>
+      </div>
+    </div>
+    <!-- <div style="color: lightgray; align-self: flex-start; margin-left: 10px; white-space: nowrap; font-size: 200%;">2026</div> -->
+  </div>
+
+  <!-- Seahorse -->
+
+  <div style="display: flex; justify-content: space-between; align-items: stretch; margin-bottom: 20px;">
+    <div style="display: flex; align-items: stretch;">
+      <img src="assets/img/publication_preview/seahorse.jpg" alt="seahorse" style="width: 100px; height: 100px; margin-right: 20px;">
+      <div style="flex-grow: 1; display: flex; flex-direction: column; justify-content: space-between;">
+        <p style="margin: 0;"><strong>Seahorse: A Unified Benchmarking Framework for Spatiotemporal Event Modeling</strong></p>
+        <p style="margin: 0;">Y. Aalaila, G. Großmann, S. Vollmer</p>
+        <p style="margin: 0;">arXiv preprint, 2026</p>
+        <p style="margin: 0;"><a href="https://arxiv.org/abs/2607.01022"><i class="fa-regular fa-file-pdf"></i>PDF</a> </p>
+      </div>
+    </div>
+    <!-- <div style="color: lightgray; align-self: flex-start; margin-left: 10px; white-space: nowrap; font-size: 200%;">2026</div> -->
+  </div>
+
+  <!-- HawkesNest -->
+
+  <div style="display: flex; justify-content: space-between; align-items: stretch; margin-bottom: 20px;">
+    <div style="display: flex; align-items: stretch;">
+      <img src="assets/img/publication_preview/hawksnest.jpg" alt="HawkesNest" style="width: 100px; height: 100px; margin-right: 20px;">
+      <div style="flex-grow: 1; display: flex; flex-direction: column; justify-content: space-between;">
+        <p style="margin: 0;"><strong>HawkesNest: A Multi-Axis Synthetic Benchmark for Spatiotemporal Pattern Complexity</strong></p>
+        <p style="margin: 0;">Y. Aalaila, S. Mukherjee, G. Großmann, S. Vollmer</p>
+        <p style="margin: 0;">arXiv preprint, 2026</p>
+        <p style="margin: 0;"><a href="https://arxiv.org/abs/2606.16863"><i class="fa-regular fa-file-pdf"></i>PDF</a> </p>
+      </div>
+    </div>
+    <!-- <div style="color: lightgray; align-self: flex-start; margin-left: 10px; white-space: nowrap; font-size: 200%;">2026</div> -->
+  </div>
+
 
   <!-- BioDisco -->
   <div style="display: flex; justify-content: space-between; align-items: stretch; margin-bottom: 20px;">
