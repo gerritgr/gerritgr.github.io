@@ -123,6 +123,7 @@ Also, I am a mentor at <span style="color:#e67e22;">✦</span> <a href="https://
 <br>
 # <i class="fa-brands fa-medium"></i> Tutorials, Talks, and Opinion Pieces
 
+* Talk on *Rethinking Counterfactuals: Hidden Assumptions and Practical Pitfalls* as part of the [CREST'26 Workshop](https://sites.google.com/view/crest26) at FLoC 2026 ([find the slides here](https://github.com/gerritgr/crest_2026)).
 * Talk on *Learning Latent Structures in Complex Systems Through Prediction* as part of the *Scientific Machine Learning Workshop* at DFKI/RPTU ([find the slides here](http://github.com/gerritgr/sciml2026)). 
 * Talk on *Generative AI for Drug Discovery: Dreaming up New (Useful) Molecules* as part of the [Society of Spanish Scientists in Germany (CERFA) 2024 Symposium: “Excuse me, there is Artificial Intelligence in my Soup”](https://cerfa.de/blog/2024/09/06/symposium-2024-excuse-me-there-is-artificial-intelligence-in-my-soup/) ([find the slides here](https://github.com/gerritgr/cerfa_talk))
 * Talk and tutorial on [Language Models and Structured Knowledge in AI](https://github.com/gerritgr/LLMSummerSchool) as part of the [Inria-DFKI European Summer School](https://idessai.eu/venue-2024/) 
