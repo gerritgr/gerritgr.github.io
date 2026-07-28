@@ -388,7 +388,7 @@ Also, I am a mentor at <span style="color:#e67e22;">✦</span> <a href="https://
         <p style="margin: 0;"><a href="https://openreview.net/pdf?id=N69lSYWkMw"><i class="fa-regular fa-file-pdf"></i>PDF</a> </p>
       </div>
     </div>
-     <div style="color: lightgray; align-self: flex-start; margin-left: 10px; white-space: nowrap; font-size: 200%;">2025</div> 
+     <!-- <div style="color: lightgray; align-self: flex-start; margin-left: 10px; white-space: nowrap; font-size: 200%;">2025</div> -->
   </div>
 
   <!-- story agents -->
