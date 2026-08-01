@@ -485,8 +485,8 @@ Also, I am a mentor at <span style="color:#e67e22;">✦</span> <a href="https://
       <div style="flex-grow: 1; display: flex; flex-direction: column; justify-content: space-between;">
         <p style="margin: 0;"><strong>Orca: Neural Operators for Causal Reasoning in Continuous Time</strong></p>
         <p style="margin: 0;">G. Großmann, D. Selby, S. Vollmer</p>
-        <!--<p style="margin: 0;"> <i><a href="https://strl-workshop.github.io/strl2026/">5th International Workshop on Spatio-Temporal Reasoning and Learning</a></i>, 2026</p>
-        <p style="margin: 0;"><a href="https://arxiv.org/abs/2607.01082"><i class="fa-regular fa-file-pdf"></i>PDF</a> </p> -->
+        <p style="margin: 0;">arXiv preprint, 2026</p>
+        <p style="margin: 0;"><a href="https://arxiv.org/abs/2607.27867v1"><i class="fa-regular fa-file-pdf"></i>PDF</a> </p>
       </div>
     </div>
     <!-- <div style="color: lightgray; align-self: flex-start; margin-left: 10px; white-space: nowrap; font-size: 200%;">2026</div> -->
