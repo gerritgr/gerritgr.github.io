@@ -730,8 +730,8 @@ Also, I am a mentor at <span style="color:#e67e22;">✦</span> <a href="https://
       <div style="flex-grow: 1; display: flex; flex-direction: column; justify-content: space-between;">
         <p style="margin: 0;"><strong>CLAM: Causal Spatial Disaggregation to Infer Local Effects From Coarse Data</strong></p>
         <p style="margin: 0;">G. Großmann, S. Mukherjee, S. Vollmer</p>
-        <p style="margin: 0;">Accepted at NeurIPS <a href="https://sites.google.com/view/causcien">CauScien: Uncovering Causality in Science Workshop</a>, 2025</p>
-        <p style="margin: 0;"><a href="https://github.com/spacetimecausality/spacetimecausality.github.io/blob/main/assets/pdf/CLAM.pdf"><i class="fa-regular fa-file-pdf"></i> PDF</a></p>
+        <p style="margin: 0;">Abstract at NeurIPS <a href="https://sites.google.com/view/causcien">CauScien: Uncovering Causality in Science Workshop</a>, 2025</p>
+        <p style="margin: 0;"><a href="https://arxiv.org/abs/2608.08064"><i class="fa-regular fa-file-pdf"></i> PDF</a></p>
       </div>
     </div>
   </div>
