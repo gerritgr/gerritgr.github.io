@@ -492,6 +492,21 @@ Also, I am a mentor at <span style="color:#e67e22;">✦</span> <a href="https://
     <!-- <div style="color: lightgray; align-self: flex-start; margin-left: 10px; white-space: nowrap; font-size: 200%;">2026</div> -->
   </div>
 
+  <!-- Ambulance -->
+
+  <div style="display: flex; justify-content: space-between; align-items: stretch; margin-bottom: 20px;">
+    <div style="display: flex; align-items: stretch;">
+      <img src="assets/img/publication_preview/ambulance.jpg" alt="ambulance" style="width: 100px; height: 100px; margin-right: 20px;">
+      <div style="flex-grow: 1; display: flex; flex-direction: column; justify-content: space-between;">
+        <p style="margin: 0;"><strong>A Spatio-Temporal Digital Twin for Reasoning About Emergency Medical Service Dispatch</strong></p>
+        <p style="margin: 0;">G. Großmann, L. Shalaby</p>
+        <p style="margin: 0;"><a href="https://strl-workshop.github.io/strl2026/">International Workshop on Spatio-Temporal Reasoning and Learning</a>, at IJCAI 2026</p>
+        <p style="margin: 0;"></p>
+      </div>
+    </div>
+    <!-- <div style="color: lightgray; align-self: flex-start; margin-left: 10px; white-space: nowrap; font-size: 200%;">2026</div> -->
+  </div>
+
   <!-- Event History -->
 
   <div style="display: flex; justify-content: space-between; align-items: stretch; margin-bottom: 20px;">
