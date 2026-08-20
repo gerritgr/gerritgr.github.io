@@ -760,7 +760,7 @@ Also, I am a mentor at <span style="color:#e67e22;">✦</span> <a href="https://
       <div style="flex-grow: 1; display: flex; flex-direction: column; justify-content: space-between;">
         <p style="margin: 0;"><strong>Cleansurvival: Automated Data Preprocessing for Time-To-Event Models Using Reinforcement Learning</strong></p>
         <p style="margin: 0;">Y. Koka, D. Selby, G. Großmann, S. Vollmer</p>
-        <p style="margin: 0;"><i>Preprint</i>, 2025</p> 
+        <p style="margin: 0;">Accepted at <i>BMC Medical Informatics and Decision Making</i>, 2026</p> 
         <p style="margin: 0;"><a href="https://arxiv.org/pdf/2502.03946"><i class="fa-regular fa-file-pdf"></i>PDF</a> </p>
       </div>
     </div>
