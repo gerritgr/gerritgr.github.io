@@ -32,13 +32,11 @@ I am also a member of the [Machine Learning & Global Health Network (MLGH)](http
 **Research Interests:** <br>
 🤖💡 My research revolves around the question: How can we integrate the distinct realms of __discrete structures__, such as (causal) graphs and (complex) networks, with the __continuous nature__ of evolution, diffusion, flow, and learning?
 
-🎲🕸️ I am developing numerical methods to analyze _spatio-temporal_ and _stochastic_ __dynamical processes__. This research aims to understand how a substrate like a network shapes __collective phenomena__.
+🎲🕸️ I am developing methods to study how substrates such as networks shape **collective emergent phenomen**, how hidden networks can be reconstructed from data, and how causal structure can be exploited for learning.
 
-🧪🧠 Additionally, in collaboration with the [NextAid](https://nextaid.cs.uni-saarland.de/) project, my focus is on __geometric deep learning__ for molecules. In this area, __probabilistic flow__ models offer an innovative approach to integrating geometric deep learning with stochastic processes. My current projects include advancing __neuro-symbolic__ guidance of diffusion models, implementing semi-supervised learning on __metabolic networks__, exploring the expressiveness of __message-passing__ architectures, and the development of non-parametric methods for network __reconstruction__.
+🧪🧠 Additionally, in collaboration with the [Helmholtz Institute for Pharmaceutical Research Saarland (HIPS)](https://www.helmholtz-hips.de/en/) and the [Neuro-explicit Drug Discovery (NEDD)](https://nextaid.cs.uni-saarland.de/) project, I work on **geometric and relational deep learning** for biochemical data. My research includes **probabilistic flows** on graphs for generative modeling, **neuro-symbolic** guidance of diffusion models, graph representation learning for biological data across scales, and multi-agent LLM systems for scientific discovery.
 
-Please also check out our <span style="color:#2798ba;">★</span> [STAR: Space × Time × Causality Reading Group](https://spacetimecausality.github.io/).
-
-Also, I am a mentor at <span style="color:#e67e22;">✦</span> <a href="https://ai-grid.org" target="_blank" rel="noopener"><strong>AI Grid</strong></a>.
+🌱🤝 Beyond my research, I co-organize the <span style="color:#2798ba;">★</span> [STAR: Space × Time × Causality Reading Group](https://spacetimecausality.github.io/) and serve as a mentor at <span style="color:#e67e22;">✦</span> <a href="https://ai-grid.org" target="_blank" rel="noopener"><strong>AI Grid</strong></a>.
 
 
 **Overview:** 
