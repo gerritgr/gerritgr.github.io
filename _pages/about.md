@@ -30,7 +30,7 @@ I recently joined the [Relational Machine Learning](https://relationalml.github.
 I am also a member of the [Machine Learning & Global Health Network (MLGH)](https://mlgh.net/).
 
 **Research Interests:** <br>
-🤖💡 My research revolves around the question: How can we integrate the distinct realms of __discrete structures__ such as graphs and networks with the __continuous nature__ of dynamic evolution, diffusion, and learning?
+🤖💡 My research revolves around the question: How can we integrate the distinct realms of __discrete structures__, such as (causal) graphs and (complex) networks, with the __continuous nature__ of evolution, diffusion, flow, and learning?
 
 🎲🕸️ I am developing numerical methods to analyze _spatio-temporal_ and _stochastic_ __dynamical processes__. This research aims to understand how a substrate like a network shapes __collective phenomena__.
 
