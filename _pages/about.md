@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Dr. rer. nat., M. Sc., Postdoc at <a href='https://www.dfki.de/web'>DFKI</a>. Saarbrücken and <a href='https://datasciapps.de/author/gerrit-gro%C3%9Fmann/'>Kaiserslautern</a>. Germany. 
+subtitle: Dr. rer. nat., M. Sc., Postdoctoral Researcher at <a href='https://cispa.de/'>CISPA</a>, Saarbrücken, Germany.
 
 profile:
   align: right
