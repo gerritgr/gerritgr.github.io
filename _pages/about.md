@@ -24,9 +24,9 @@ social: false  # includes social icons at the bottom of the page
 ---
 <script src="https://kit.fontawesome.com/568534ed70.js" crossorigin="anonymous"></script>
 
-
 Hello World! My name is Gerrit Großmann, welcome to my personal academic webpage!
-I work at the research department on [Data Science and its Applications (DSA)](https://dsa.dfki.de) (formerly [Neuro-mechanistic Modeling](https://www.dfki.de/nmm)) at the  <a href='https://www.dfki.de/web'>German Research Center for Artificial Intelligence (DFKI)</a>.
+
+I recently joined the [Relational Machine Learning](https://relationalml.github.io/) group at the [CISPA Helmholtz Center for Information Security](https://cispa.de/). Previously, I was part of the research departments [Data Science and its Applications](https://dsa.dfki.de) and [Neuro-mechanistic Modeling](https://www.dfki.de/nmm) at the [German Research Center for Artificial Intelligence (DFKI)](https://www.dfki.de/web).
 I am also a member of the [Machine Learning & Global Health Network (MLGH)](https://mlgh.net/).
 
 **Research Interests:** <br>
