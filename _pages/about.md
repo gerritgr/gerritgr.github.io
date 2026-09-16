@@ -34,7 +34,7 @@ I am also a member of the [Machine Learning & Global Health Network (MLGH)](http
 
 🎲🕸️ I am developing methods to study how substrates such as networks shape **collective emergent phenomen**, how hidden networks can be reconstructed from data, and how causal structure can be exploited for learning.
 
-🧪🧠 Additionally, in collaboration with the [Helmholtz Institute for Pharmaceutical Research Saarland (HIPS)](https://www.helmholtz-hips.de/en/) and the [Neuro-explicit Drug Discovery (NEDD)](https://nextaid.cs.uni-saarland.de/) project, I work on **geometric and relational deep learning** for biochemical data. My research includes **probabilistic flows** on graphs for generative modeling, **neuro-symbolic** guidance of diffusion models, graph representation learning for biological data across scales, and multi-agent LLM systems for scientific discovery.
+🧪🧠 Additionally, in collaboration with the [HIPS](https://www.helmholtz-hips.de/en/) and the [Neuro-explicit Drug Discovery (NEDD)](https://nextaid.cs.uni-saarland.de/), I work on **geometric and relational deep learning** for biochemical data. My research includes **probabilistic flows** on graphs for generative modeling, **neuro-symbolic** guidance of diffusion models, graph representation learning for biological data across scales, and multi-agent LLM systems for scientific discovery.
 
 🌱🤝 Beyond my research, I co-organize the <span style="color:#2798ba;">★</span> [STAR: Space × Time × Causality Reading Group](https://spacetimecausality.github.io/) and serve as a mentor at <span style="color:#e67e22;">✦</span> <a href="https://ai-grid.org" target="_blank" rel="noopener"><strong>AI Grid</strong></a>.
 
