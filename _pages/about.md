@@ -759,7 +759,7 @@ I am also a member of the [Machine Learning & Global Health Network (MLGH)](http
         <p style="margin: 0;"><strong>Cleansurvival: Automated Data Preprocessing for Time-To-Event Models Using Reinforcement Learning</strong></p>
         <p style="margin: 0;">Y. Koka, D. Selby, G. Großmann, S. Vollmer</p>
         <p style="margin: 0;">Accepted at <i>BMC Medical Informatics and Decision Making</i>, 2026</p> 
-        <p style="margin: 0;"><a href="https://arxiv.org/pdf/2502.03946"><i class="fa-regular fa-file-pdf"></i>PDF</a> </p>
+        <p style="margin: 0;"><a href="https://link.springer.com/article/10.1186/s12911-026-03786-6"><i class="fa-regular fa-file-pdf"></i>PDF</a> </p>
       </div>
     </div>
     <!-- <div style="color: lightgray; align-self: flex-start; margin-left: 10px; white-space: nowrap; font-size: 200%;">2025</div>   -->
