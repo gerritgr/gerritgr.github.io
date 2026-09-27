@@ -529,7 +529,7 @@ I am also a member of the [Machine Learning & Global Health Network (MLGH)](http
       <div style="flex-grow: 1; display: flex; flex-direction: column; justify-content: space-between;">
         <p style="margin: 0;"><strong>Seahorse: A Unified Benchmarking Framework for Spatiotemporal Event Modeling</strong></p>
         <p style="margin: 0;">Y. Aalaila, G. Großmann, S. Vollmer</p>
-        <p style="margin: 0;">arXiv preprint, 2026</p>
+        <p style="margin: 0;">Accepted at NeurIPS, 2026</p>
         <p style="margin: 0;"><a href="https://arxiv.org/abs/2607.01022"><i class="fa-regular fa-file-pdf"></i>PDF</a> </p>
       </div>
     </div>
