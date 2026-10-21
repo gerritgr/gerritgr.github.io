@@ -591,7 +591,7 @@ I am also a member of the [Machine Learning & Global Health Network (MLGH)](http
         <p style="margin: 0;"><strong>Dolphin: Interpretable Discovery of Exceptional Subgroups in Longitudinal Data</strong></p>
         <p style="margin: 0;"> C. Joshi, D. Selby, A. Patnaik, S. Vollmer, G. Großmann</p>
         <p style="margin: 0;"> <i><a href="https://nfmcpworkshop.github.io/">Workshop on New Frontiers in Mining Complex Pattern</a></i>, 2026</p>
-        <!-- <p style="margin: 0;"><a href="https://nfmcpworkshop.github.io/papers/2026/paper682.pdf"><i class="fa-regular fa-file-pdf"></i>PDF</a> </p>  -->
+        <p style="margin: 0;"><a href="https://nfmcpworkshop.github.io/papers/2026/paper682.pdf"><i class="fa-regular fa-file-pdf"></i>PDF</a> </p>  
       </div>
     </div>
     <!-- <div style="color: lightgray; align-self: flex-start; margin-left: 10px; white-space: nowrap; font-size: 200%;">2026</div> -->
