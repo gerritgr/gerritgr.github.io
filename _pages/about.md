@@ -356,7 +356,7 @@ I am also a member of the [Machine Learning & Global Health Network (MLGH)](http
         <p style="margin: 0;"><strong>BioDisco: Multi-agent hypothesis generation with dual-mode evidence, iterative feedback and temporal evaluation</strong></p>
         <p style="margin: 0;">Y. Ke, K. George, K. Pandya, D. Blumenthal, M. Sprang, G. Großmann, S. Vollmer, D. Selby</p>
         <p style="margin: 0;"> <i><a href="https://2026.ijcai.org/">IJCAI-ECAI</a></i>, 2026</p>
-        <p style="margin: 0;"><a href="https://arxiv.org/abs/2508.01285"><i class="fa-regular fa-file-pdf"></i>PDF</a> </p>
+        <p style="margin: 0;"><a href="https://ijcai.org/proceedings/2026/752"><i class="fa-regular fa-file-pdf"></i>PDF</a> </p>
       </div>
     </div>
     <!-- <div style="color: lightgray; align-self: flex-start; margin-left: 10px; white-space: nowrap; font-size: 200%;">2026</div> -->
@@ -547,7 +547,7 @@ I am also a member of the [Machine Learning & Global Health Network (MLGH)](http
         <p style="margin: 0;"><strong>Seahorse: A Unified Benchmarking Framework for Spatiotemporal Event Modeling</strong></p>
         <p style="margin: 0;">Y. Aalaila, G. Großmann, S. Vollmer</p>
         <p style="margin: 0;">Accepted at NeurIPS, 2026</p>
-        <p style="margin: 0;"><a href="https://arxiv.org/abs/2607.01022"><i class="fa-regular fa-file-pdf"></i>PDF</a> </p>
+        <p style="margin: 0;"><a href="https://neurips.cc/virtual/2026/loc/paris/poster/139192"><i class="fa-regular fa-file-pdf"></i>PDF</a> </p>
       </div>
     </div>
     <!-- <div style="color: lightgray; align-self: flex-start; margin-left: 10px; white-space: nowrap; font-size: 200%;">2026</div> -->
@@ -577,7 +577,7 @@ I am also a member of the [Machine Learning & Global Health Network (MLGH)](http
         <p style="margin: 0;"><strong>BioDisco: Multi-agent hypothesis generation with dual-mode evidence, iterative feedback and temporal evaluation</strong></p>
         <p style="margin: 0;">Y. Ke, K. George, K. Pandya, D. Blumenthal, M. Sprang, G. Großmann, S. Vollmer, D. Selby</p>
         <p style="margin: 0;"> <i><a href="https://2026.ijcai.org/">IJCAI-ECAI</a></i>, 2026</p>
-        <p style="margin: 0;"><a href="https://arxiv.org/abs/2508.01285"><i class="fa-regular fa-file-pdf"></i>PDF</a> </p>
+        <p style="margin: 0;"><a href="https://ijcai.org/proceedings/2026/752"><i class="fa-regular fa-file-pdf"></i>PDF</a> </p>
       </div>
     </div>
     <!-- <div style="color: lightgray; align-self: flex-start; margin-left: 10px; white-space: nowrap; font-size: 200%;">2026</div> -->
