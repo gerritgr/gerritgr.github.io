@@ -459,6 +459,20 @@ I am also a member of the [Machine Learning & Global Health Network (MLGH)](http
 
 <div style="max-width: 100%;">
 
+  <!-- Compliance -->
+  <div style="display: flex; justify-content: space-between; align-items: stretch; margin-bottom: 20px;">
+    <div style="display: flex; align-items: stretch;">
+      <img src="assets/img/publication_preview/compliance.jpg" alt="Compliance" style="width: 100px; height: 100px; margin-right: 20px;">
+      <div style="flex-grow: 1; display: flex; flex-direction: column; justify-content: space-between;">
+        <p style="margin: 0;"><strong>Rewarded for Not Getting Caught: Why Alignment Training Selects for Conditional Compliance and Cannot Instill Norms</strong></p>
+        <p style="margin: 0;">K. Baum, R. Binkytė, G. Großmann, F. Jahn, A. Mannino</p>
+        <p style="margin: 0;">arXiv preprint, 2026</p>
+        <p style="margin: 0;"><a href="https://arxiv.org/abs/2611.02162"><i class="fa-regular fa-file-pdf"></i>PDF</a> </p>
+      </div>
+    </div>
+    <div style="color: lightgray; align-self: flex-start; margin-left: 10px; white-space: nowrap; font-size: 200%;">2026</div> 
+  </div>
+
   <!-- Social Balance -->
   <div style="display: flex; justify-content: space-between; align-items: stretch; margin-bottom: 20px;">
     <div style="display: flex; align-items: stretch;">
@@ -474,7 +488,7 @@ I am also a member of the [Machine Learning & Global Health Network (MLGH)](http
         </p>
       </div>
     </div>
-    <div style="color: lightgray; align-self: flex-start; margin-left: 10px; white-space: nowrap; font-size: 200%;">2026</div>
+    <!-- <div style="color: lightgray; align-self: flex-start; margin-left: 10px; white-space: nowrap; font-size: 200%;">2026</div> -->
   </div>
 
   <!-- Orca -->
