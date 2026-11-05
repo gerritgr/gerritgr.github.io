@@ -777,7 +777,7 @@ I am also a member of the [Machine Learning & Global Health Network (MLGH)](http
         <p style="margin: 0;"><strong>The Power of Stories: Narrative Priming Shapes How LLM Agents Collaborate and Compete</strong></p>
         <p style="margin: 0;">G. Großmann, L. Ivanova, S. L. Poduru, M. Tabrizian, I. Mesabah, D. Selby, S. Vollmer</p>
         <p style="margin: 0;"> <i><a href="https://netgcoop2025.univ-avignon.fr/">NETGCOOP 2025</a></i>, 2025 </p>
-        <p style="margin: 0;"><a href="https://arxiv.org/pdf/2505.03961"><i class="fa-regular fa-file-pdf"></i>PDF</a> </p>
+        <p style="margin: 0;"><a href="https://arxiv.org/pdf/2505.03961"><i class="fa-regular fa-file-pdf"></i>PDF</a> &nbsp; &nbsp;   <a href="https://link.springer.com/chapter/10.1007/978-3-032-09315-8_11"><i class="fa-solid fa-dollar-sign"></i>Publication</a>  </p>
       </div>
     </div>
     <!-- <div style="color: lightgray; align-self: flex-start; margin-left: 10px; white-space: nowrap; font-size: 200%;">2025</div> -->
