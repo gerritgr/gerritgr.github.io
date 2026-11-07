@@ -448,6 +448,21 @@ I am also a member of the [Machine Learning & Global Health Network (MLGH)](http
     </div>
      <!--  <div style="color: lightgray; align-self: flex-start; margin-left: 10px; white-space: nowrap; font-size: 200%;">2021</div> -->
   </div>
+  
+  <!-- Seahorse -->
+
+  <div style="display: flex; justify-content: space-between; align-items: stretch; margin-bottom: 20px;">
+    <div style="display: flex; align-items: stretch;">
+      <img src="assets/img/publication_preview/seahorse.jpg" alt="seahorse" style="width: 100px; height: 100px; margin-right: 20px;">
+      <div style="flex-grow: 1; display: flex; flex-direction: column; justify-content: space-between;">
+        <p style="margin: 0;"><strong>Seahorse: A Unified Benchmarking Framework for Spatiotemporal Event Modeling</strong></p>
+        <p style="margin: 0;">Y. Aalaila, S. Vollmer, G. Grossmann</p>
+        <p style="margin: 0;">Accepted at NeurIPS, 2026</p>
+        <p style="margin: 0;"><a href="https://neurips.cc/virtual/2026/loc/paris/poster/139192"><i class="fa-regular fa-file-pdf"></i>PDF</a> </p>
+      </div>
+    </div>
+    <!-- <div style="color: lightgray; align-self: flex-start; margin-left: 10px; white-space: nowrap; font-size: 200%;">2026</div> -->
+  </div>
 
 </div>
 
@@ -574,7 +589,7 @@ I am also a member of the [Machine Learning & Global Health Network (MLGH)](http
       <img src="assets/img/publication_preview/seahorse.jpg" alt="seahorse" style="width: 100px; height: 100px; margin-right: 20px;">
       <div style="flex-grow: 1; display: flex; flex-direction: column; justify-content: space-between;">
         <p style="margin: 0;"><strong>Seahorse: A Unified Benchmarking Framework for Spatiotemporal Event Modeling</strong></p>
-        <p style="margin: 0;">Y. Aalaila, G. Großmann, S. Vollmer</p>
+        <p style="margin: 0;">Y. Aalaila, S. Vollmer, G. Grossmann</p>
         <p style="margin: 0;">Accepted at NeurIPS, 2026</p>
         <p style="margin: 0;"><a href="https://neurips.cc/virtual/2026/loc/paris/poster/139192"><i class="fa-regular fa-file-pdf"></i>PDF</a> </p>
       </div>
