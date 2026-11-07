@@ -159,6 +159,10 @@ I am also a member of the [Machine Learning & Global Health Network (MLGH)](http
         <div><em>Critical Evaluation of Biologically Informed Neural Networks: Validating Biological Pathway Representation</em><br>Tanya Amit Tyagi<br>Master's thesis</div>
     </div>
     <div style="display: flex; margin-bottom: 10px;">
+        <div style="min-width: 120px; font-weight: bold; align-items: center;"><br>2026</div>
+        <div><em>Exploring Transformers and LLMs for Graph Machine Learning</em><br>Aniket Sunil Shinde<br>Master's thesis</div>
+    </div>
+    <div style="display: flex; margin-bottom: 10px;">
         <div style="min-width: 120px; font-weight: bold; align-items: center;"><br>2025</div>
         <div><em>Interpretable Reinforcement Learning for Card Games</em><br>Daniel Schmalz<br>Bachelor's thesis</div>
     </div>
