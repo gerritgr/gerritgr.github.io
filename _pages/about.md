@@ -518,7 +518,7 @@ I am also a member of the [Machine Learning & Global Health Network (MLGH)](http
         <p style="margin: 0;"><strong>AI Alignment Is Neither Solvable nor Sufficient</strong></p>
         <p style="margin: 0;">G. Großmann</p>
         <p style="margin: 0;">Preprint, 2026</p>
-         <!-- <p style="margin: 0;"><a href="https://arxiv.org/abs/2607.27867v1"><i class="fa-regular fa-file-pdf"></i>PDF</a> </p> -->
+         <p style="margin: 0;"><a href="https://arxiv.org/abs/2611.13167"><i class="fa-regular fa-file-pdf"></i>PDF</a> </p> 
       </div>
     </div>
     <!-- <div style="color: lightgray; align-self: flex-start; margin-left: 10px; white-space: nowrap; font-size: 200%;">2026</div> -->
