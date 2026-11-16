@@ -524,6 +524,20 @@ I am also a member of the [Machine Learning & Global Health Network (MLGH)](http
     <!-- <div style="color: lightgray; align-self: flex-start; margin-left: 10px; white-space: nowrap; font-size: 200%;">2026</div> -->
   </div>
 
+<!-- GraphFlow -->
+<div style="display: flex; justify-content: space-between; align-items: stretch; margin-bottom: 20px;">
+  <div style="display: flex; align-items: stretch;">
+    <img src="assets/img/publication_preview/graphflow.jpg" alt="GraphFlow" style="width: 100px; height: 100px; margin-right: 20px;">
+    <div style="flex-grow: 1; display: flex; flex-direction: column; justify-content: space-between;">
+      <p style="margin: 0;"><strong>Graph-guided Flow Matching Enables Biologically Informed Prediction at Single-Cell Resolution</strong></p>
+      <p style="margin: 0;">H.-Y. Liou, M. Sprang, D. A. Selby, G. Großmann, S. Vollmer, P. Riesgo-Ferreiro, J. V. Gerbracht, B. Schroers, B. Strilic, J. Kim</p>
+      <p style="margin: 0;">bioRxiv preprint, 2026</p>
+      <p style="margin: 0;"><a href="https://www.biorxiv.org/content/10.64898/2026.11.12.766125v1.full.pdf"><i class="fa-regular fa-file-pdf"></i>PDF</a></p>
+    </div>
+  </div>
+  <!-- <div style="color: lightgray; align-self: flex-start; margin-left: 10px; white-space: nowrap; font-size: 200%;">2026</div> -->
+</div>
+
   <!-- Orca -->
   <div style="display: flex; justify-content: space-between; align-items: stretch; margin-bottom: 20px;">
     <div style="display: flex; align-items: stretch;">
