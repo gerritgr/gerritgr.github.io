@@ -121,6 +121,7 @@ I am also a member of the [Machine Learning & Global Health Network (MLGH)](http
 <br>
 # <i class="fa-brands fa-medium"></i> Tutorials, Talks, and Opinion Pieces
 
+* "KI müsste gerade die Linke beflügeln" [If anyone should be inspired by AI, it's the left]. Op-ed, _Die Welt_, Nov 16, 2026.
 * Talk on *Rethinking Counterfactuals: Hidden Assumptions and Practical Pitfalls* as part of the [Saarbrücken Causality Workshop](https://sites.google.com/view/saarbrueckencausalityworkshop) ([find updated slides here](https://github.com/gerritgr/SB_causality_talk)).
 * Talk on *Rethinking Counterfactuals: Hidden Assumptions and Practical Pitfalls* as part of the [CREST'26 Workshop](https://sites.google.com/view/crest26) at FLoC 2026 ([find the slides here](https://github.com/gerritgr/crest_2026)).
 * Invited talk on *Following the Dots: Predicting, Explaining, and Acting on Events in Space and Time* at [MLSM – Machine Learning for Smart Mobility](https://mlsm.man.dtu.dk/) group at _Technical University of Denmark_ (DTU) ([find the slides here](https://github.com/gerritgr/dtu_talk_2026)).
