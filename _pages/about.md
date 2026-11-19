@@ -510,7 +510,7 @@ I am also a member of the [Machine Learning & Global Health Network (MLGH)](http
     </div>
     <!-- <div style="color: lightgray; align-self: flex-start; margin-left: 10px; white-space: nowrap; font-size: 200%;">2026</div> -->
   </div>
-
+<!--
   <!-- Alignment -->
   <div style="display: flex; justify-content: space-between; align-items: stretch; margin-bottom: 20px;">
     <div style="display: flex; align-items: stretch;">
@@ -523,7 +523,8 @@ I am also a member of the [Machine Learning & Global Health Network (MLGH)](http
       </div>
     </div>
     <!-- <div style="color: lightgray; align-self: flex-start; margin-left: 10px; white-space: nowrap; font-size: 200%;">2026</div> -->
-  </div>
+  </div> 
+  -->
 
 <!-- GraphFlow -->
 <div style="display: flex; justify-content: space-between; align-items: stretch; margin-bottom: 20px;">
